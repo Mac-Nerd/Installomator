@@ -1,2812 +1,2812 @@
-#The following labels are available to install or update via Installomator.
+# The following labels are available to install or update via Installomator.
 
-##1password7
+## 1password7
 1Password 7
 > Password manager.
 
 [More information](https://1password.com/)
 
-##1password8
+## 1password8
 1Password 8
 > Password manager. Version 8 is an Electron app.
 
 [More information](https://1password.com/)
 
-##1passwordcli
+## 1passwordcli
 1Password CLI
 > Command line interface for the 1Password password manager.
 
 [More information](https://1password.com/)
 
-##4kvideodownloader
+## 4kvideodownloader
 4K Video Downloader
 > Free video downloader.
 
 [More information](https://www.4kdownload.com/products/product-videodownloader)
 
-##8x8:
+## 8x8:
 8x8 Work for Desktop
 > Cloud-based phone, video, chat platform.
 
 [More information](https://support.8x8.com/cloud-phone-service/voice/work-desktop/download-8x8-work-for-desktop)
 
-##abetterfinderrename11
+## abetterfinderrename11
 A Better Finder Rename 11
 > Feature-packed file renaming with EXIF, MP3, instant preview, multi-step renames, presets and reg ex support.
 
 [More information](https://www.publicspace.net/ABetterFinderRename/index.html)
 
-##abstract
+## abstract
 Abstract
 > Version control for Sketch files
 
 [More information](https://abstract.com)
 
-##acroniscyberprotectconnect, remotix
+## acroniscyberprotectconnect, remotix
 Acronis Cyber Protect Connect
 > Remote desktop and monitoring solution.
 
 [More information](https://www.acronis.com/)
 
-##acroniscyberprotectconnectagent, remotixagent
+## acroniscyberprotectconnectagent, remotixagent
 Acronis Cyber Protect Connect Agent
 > Remote desktop and monitoring solution.
 
 [More information](https://www.acronis.com/)
 
-##adobeacrobatprodc
+## adobeacrobatprodc
 Adobe Acrobat Pro DC
 > App description.
 
 [More information](https://trials.adobe.com/AdobeProducts/APRO/)
 
-##adobebrackets
+## adobebrackets
 Brackets
 > App description.
 
 [More information](https://github.com/adobe/brackets)
 
-##adobeconnect
+## adobeconnect
 AdobeConnectInstaller
 > App description.
 
 [More information](http://www.adobe.com/go/ConnectSetupMac)
 
-##adobecreativeclouddesktop
+## adobecreativeclouddesktop
 Adobe Creative Cloud
 > App description.
 
 [More information](https://helpx.adobe.com/download-install/kb/creative-cloud-desktop-app-download.html)
 
-##adobereaderdc-install
+## adobereaderdc-install
 Adobe Acrobat Reader DC
 > App description.
 
 [More information](https://ardownload2.adobe.com/pub/adobe/reader/mac/AcrobatDC/)
 
-##adobereaderdc-update
+## adobereaderdc-update
 Adobe Acrobat Reader DC
 > App description.
 
 [More information](https://ardownload2.adobe.com/pub/adobe/reader/mac/AcrobatDC/)
 
-##adobereaderdc, adobereaderdc-install
+## adobereaderdc, adobereaderdc-install
 Adobe Acrobat Reader DC
 > App description.
 
 [More information](https://armmf.adobe.com/arm-manifests/mac/AcrobatDC/reader/current_version.txt)
 
-##aircall
+## aircall
 Aircall
 > App description.
 
 [More information](https://electron.aircall.io/download/osx)
 
-##airserver:
+## airserver:
 > App description.
 
 [More information](https://www.airserver.com/download/mac/latest)
 
-##airtame
+## airtame
 Airtame
 > App description.
 
 [More information](https://airtame.com/download)
 
-##aldente
+## aldente
 AlDente
 > App description.
 
 [More information](https://github.com/davidwernhart/AlDente)
 
-##alephone
+## alephone
 Aleph One
 > App description.
 
 [More information](https://github.com/Aleph-One-Marathon/alephone)
 
-##alfred:
+## alfred:
 > App description.
 
 [More information](https://www.alfredapp.com)
 
-##alttab:
+## alttab:
 > App description.
 
 [More information](https://github.com/lwouis/alt-tab-macos)
 
-##amazonchime
+## amazonchime
 Amazon Chime
 > App description.
 
 [More information](https://clients.chime.aws/mac/latest)
 
-##amazoncorretto8jdk
+## amazoncorretto8jdk
 Amazon Corretto 8 JDK
 > App description.
 
 [More information](https://corretto.aws/downloads/latest/amazon-corretto-8-x64-macos-jdk.pkg)
 
-##amazonworkspaces:
+## amazonworkspaces:
 > App description.
 
 [More information](https://d2td7dqidlhjx7.cloudfront.net/prod/global/osx/WorkSpaces.pkg)
 
-##androidfiletransfer
+## androidfiletransfer
 Android File Transfer
 > App description.
 
 [More information](https://dl.google.com/dl/androidjumper/mtp/current/AndroidFileTransfer.dmg)
 
-##androidstudio
+## androidstudio
 Android Studio
 > App description.
 
 [More information](https://developer.android.com/studio#downloads)
 
-##anydesk
+## anydesk
 AnyDesk
 > App description.
 
 [More information](https://download.anydesk.com/anydesk.dmg)
 
-##apparency
+## apparency
 Apparency
 > App description.
 
 [More information](https://www.mothersruin.com/software/downloads/Apparency.dmg)
 
-##appcleaner
+## appcleaner
 AppCleaner
 > App description.
 
 [More information](https://freemacsoft.net/appcleaner/Updates.xml)
 
-##applenyfonts
+## applenyfonts
 Apple New York Font Collection
 > App description.
 
 [More information](https://devimages-cdn.apple.com/design/resources/download/NY.dmg)
 
-##applesfarabic
+## applesfarabic
 San Francisco Arabic
 > App description.
 
 [More information](https://devimages-cdn.apple.com/design/resources/download/SF-Arabic.dmg)
 
-##applesfcompact
+## applesfcompact
 San Francisco Compact
 > App description.
 
 [More information](https://devimages-cdn.apple.com/design/resources/download/SF-Compact.dmg)
 
-##applesfmono
+## applesfmono
 San Francisco Mono
 > App description.
 
 [More information](https://devimages-cdn.apple.com/design/resources/download/SF-Mono.dmg)
 
-##applesfpro
+## applesfpro
 San Francisco Pro
 > App description.
 
 [More information](https://devimages-cdn.apple.com/design/resources/download/SF-Pro.dmg)
 
-##applesfsymbols, sfsymbols
+## applesfsymbols, sfsymbols
 SF Symbols
 > App description.
 
 [More information](https://developer.apple.com/sf-symbols)
 
-##aquaskk:
+## aquaskk:
 > App description.
 
 [More information](https://github.com/codefirst/aquaskk)
 
-##archiwareb2go
+## archiwareb2go
 P5 Workstation)
 
-##archiwarepst
+## archiwarepst
 P5)
 
-##arq7
+## arq7
 Arq7
 > App description.
 
 [More information](https://arqbackup.com/download/arqbackup/Arq7.pkg)
 
-##asana
+## asana
 Asana
 > App description.
 
 [More information](https://desktop-downloads.asana.com/darwin_x64/prod/latest/Asana.dmg)
 
-##atext:
+## atext:
 > App description.
 
 [More information](https://trankynam.com/atext/downloads/aText.dmg)
 
-##atextlegacy
+## atextlegacy
 aText
 > App description.
 
 [More information](https://trankynam.com/atext/downloads/aTextLegacy.dmg)
 
-##atom
+## atom
 Atom
 > App description.
 
 [More information](https://github.com/atom/atom)
 
-##audacity
+## audacity
 Audacity
 > App description.
 
 [More information](https://github.com/audacity/audacity)
 
-##authydesktop
+## authydesktop
 Authy Desktop
 > App description.
 
 [More information](https://electron.authy.com/download?channel=stable&arch=x64&platform=darwin&version=latest&product=authy)
 
-##autodeskfusion360admininstall
+## autodeskfusion360admininstall
 Autodesk Fusion 360 Admin Install
 > App description.
 
 [More information](https://dl.appstreaming.autodesk.com/production/installers/Autodesk%20Fusion%20360%20Admin%20Install.pkg)
 
-##autodmg:
+## autodmg:
 > App description.
 
 [More information](https://github.com/MagerValp/AutoDMG)
 
-##autopkgr
+## autopkgr
 AutoPkgr
 > App description.
 
 [More information](https://github.com/lindegroup/autopkgr)
 
-##aviatrix:
+## aviatrix:
 > App description.
 
 [More information](https://s3-us-west-2.amazonaws.com/aviatrix-download/AviatrixVPNClient/AVPNC_mac.pkg)
 
-##awscli2:
+## awscli2:
 > App description.
 
 [More information](https://awscli.amazonaws.com/AWSCLIV2.pkg)
 
-##awsvpnclient
+## awsvpnclient
 AWS VPN Client
 > App description.
 
 [More information](https://d20adtppz83p9s.cloudfront.net/OSX/latest/AWS_VPN_Client.pkg)
 
-##axurerp10
+## axurerp10
 Axure RP 10
 > App description.
 
 [More information](https://d3uii9pxdigrx1.cloudfront.net/AxureRP-Setup.dmg)
 
-##balenaetcher
+## balenaetcher
 balena Etcher
 > App description.
 
 [More information](https://github.com/balena-io/etcher)
 
-##balsamiqwireframes:
+## balsamiqwireframes:
 > App description.
 
 [More information](https://builds.balsamiq.com/bwd/)
 
-##bartender:
+## bartender:
 > App description.
 
 [More information](https://www.macbartender.com/B2/updates/B4Latest/Bartender%204.dmg)
 
-##basecamp3
+## basecamp3
 Basecamp 3
 > App description.
 
 [More information](https://bc3-desktop.s3.amazonaws.com/mac/basecamp3.dmg)
 
-##bbedit
+## bbedit
 BBEdit
 > App description.
 
 [More information](https://versioncheck.barebones.com/BBEdit.xml)
 
-##bettertouchtool:
+## bettertouchtool:
 > App description.
 
 [More information](https://folivora.ai/releases/BetterTouchTool.zip)
 
-##bitrix24
+## bitrix24
 Bitrix24
 > App description.
 
 [More information](https://dl.bitrix24.com/b24/bitrix24_desktop.dmg)
 
-##bitwarden
+## bitwarden
 Bitwarden
 > App description.
 
 [More information](https://github.com/bitwarden/desktop)
 
-##blender
+## blender
 blender
 > App description.
 
 [More information](https://www.blender.org/download)
 
-##bluejeans
+## bluejeans
 BlueJeans
 > App description.
 
 [More information](https://www.bluejeans.com/downloads)
 
-##bluejeanswithaudiodriver
+## bluejeanswithaudiodriver
 BlueJeans
 > App description.
 
 [More information](https://www.bluejeans.com/downloads)
 
-##boxdrive
+## boxdrive
 Box
 > App description.
 
 [More information](https://e3.boxcdn.net/box-installers/desktop/releases/mac/Box.pkg)
 
-##boxsync
+## boxsync
 Box Sync
 > App description.
 
 [More information](https://e3.boxcdn.net/box-installers/sync/Sync+4+External/Box%20Sync%20Installer.dmg)
 
-##boxtools
+## boxtools
 Box Tools
 > App description.
 
 [More information](https://box-installers.s3.amazonaws.com/boxedit/mac/currentrelease/BoxToolsInstaller.pkg)
 
-##brave
+## brave
 Brave Browser
 > App description.
 
 [More information](https://laptop-updates.brave.com/latest/osxarm64/release)
 
-##bugdom
+## bugdom
 Bugdom
 > App description.
 
 [More information](https://github.com/jorio/Bugdom)
 
-##caffeine
+## caffeine
 Caffeine
 > App description.
 
 [More information](https://github.com/IntelliScape/caffeine)
 
-##cakebrew
+## cakebrew
 Cakebrew
 > App description.
 
 [More information](https://www.cakebrew.com/appcast/profileInfo.php)
 
-##calcservice
+## calcservice
 CalcService
 > App description.
 
 [More information](https://www.devontechnologies.com/support/download)
 
-##calibre:
+## calibre:
 > App description.
 
 [More information](https://calibre-ebook.com/dist/osx)
 
-##camostudio
+## camostudio
 Camo Studio
 > App description.
 
 [More information](https://reincubate.com/res/labs/camo/camo-macos-latest.zip)
 
-##camtasia, camtasia2021
+## camtasia, camtasia2021
 Camtasia 2021
 > App description.
 
 [More information](https://support.techsmith.com/hc/en-us/articles/360004908652-Desktop-Product-Download-Links)
 
-##camtasia2019
+## camtasia2019
 Camtasia 2019
 > App description.
 
 [More information](https://support.techsmith.com/hc/en-us/articles/360004908652-Desktop-Product-Download-Links)
 
-##camtasia2020
+## camtasia2020
 Camtasia 2020
 > App description.
 
 [More information](https://support.techsmith.com/hc/en-us/articles/360004908652-Desktop-Product-Download-Links)
 
-##canva
+## canva
 Canva
 > App description.
 
 [More information](https://desktop-release.canva.com/Canva-latest.dmg)
 
-##carboncopycloner
+## carboncopycloner
 Carbon Copy Cloner
 > App description.
 
 [More information](https://bombich.com/software/download_ccc.php?v=latest)
 
-##charles
+## charles
 Charles Proxy
 > App description.
 
 [More information](https://www.charlesproxy.com/assets/release/$appNewVersion/charles-proxy-$appNewVersion.dmg)
 
-##chatwork
+## chatwork
 Chatwork
 > App description.
 
 [More information](https://desktop-app.chatwork.com/installer/Chatwork.dmg)
 
-##chronoagent
+## chronoagent
 ChronoAgent
 > App description.
 
 [More information](https://www.econtechnologies.com/UC/updatecheck.php?prod=ChronoAgent&lang=en&plat=mac&os=10.14.1&hw=i64&req=1&vers=#)
 
-##chronosync
+## chronosync
 ChronoSync
 > App description.
 
 [More information](https://www.econtechnologies.com/UC/updatecheck.php?prod=ChronoSync&lang=en&plat=mac&os=10.14.1&hw=i64&req=1&vers=#)
 
-##cisdem-documentreader
+## cisdem-documentreader
 cisdem-documentreader
 > App description.
 
 [More information](https://download.cisdem.com/cisdem-documentreader.dmg)
 
-##citrixworkspace
+## citrixworkspace
 Citrix Workspace
 > App description.
 
 [More information](https://www.citrix.com/downloads/workspace-app/mac/workspace-app-for-mac-latest.html)
 
-##clevershare2
+## clevershare2
 Clevershare
 > App description.
 
 [More information](https://www.clevertouch.com/eu/clevershare2g)
 
-##clickshare
+## clickshare
 ClickShare
 > App description.
 
 [More information](https://www.barco.com)
 
-##clipy
+## clipy
 Clipy
 > App description.
 
 [More information](https://github.com/Clipy/Clipy)
 
-##closeio
+## closeio
 Close.io
 > App description.
 
 [More information](https://github.com/closeio/closeio-desktop-releases)
 
-##cloudya
+## cloudya
 Cloudya
 > App description.
 
 [More information](https://www.nfon.com/de/service/downloads)
 
-##clue
+## clue
 Clue
 $(curl -fsL [More information](https://clue.no/en/download)
 
-##cluefull
+## cluefull
 Clue
 $(curl -fsL [More information](https://clue.no/en/download)
 
-##cocoapods
+## cocoapods
 CocoaPods
 > App description.
 
 [More information](https://github.com/CocoaPods/CocoaPods-app)
 
-##coconutbattery
+## coconutbattery
 coconutBattery
 > App description.
 
 [More information](https://coconut-flavour.com/downloads/coconutBattery_latest.zip)
 
-##code42
+## code42
 Code42
 > App description.
 
 [More information](https://download.code42.com/installs/agent/latest-mac.dmg)
 
-##coderunner
+## coderunner
 CodeRunner
 > App description.
 
 [More information](https://coderunnerapp.com/download)
 
-##colourcontrastanalyser
+## colourcontrastanalyser
 Colour Contrast Analyser
 > App description.
 
 [More information](https://github.com/ThePacielloGroup/CCAe)
 
-##cormorant:
+## cormorant:
 > App description.
 
 [More information](https://eclecticlight.co/downloads)
 
-##craftmanager
+## craftmanager
 CraftManager
 > App description.
 
 [More information](https://craft-assets.invisionapp.com/CraftManager/production/appcast.xml)
 
-##craftmanagerforsketch
+## craftmanagerforsketch
 CraftManager
 > App description.
 
 [More information](https://craft-assets.invisionapp.com/CraftManager/production/CraftManager.zip)
 
-##cricutdesignspace
+## cricutdesignspace
 Cricut Design Space)
 
-##cryptomator
+## cryptomator
 Cryptomator
 
 [More information](https://github.com/cryptomator/cryptomator)
 
-##cyberduck
+## cyberduck
 Cyberduck
 > App description.
 
 [More information](https://version.cyberduck.io/changelog.rss)
 
-##cytoscape
+## cytoscape
 Cytoscape
 > App description.
 
 [More information](https://github.com/cytoscape/cytoscape)
 
-##daisydisk
+## daisydisk
 DaisyDisk
 > App description.
 
 [More information](https://daisydiskapp.com/downloads/DaisyDisk.zip)
 
-##dangerzone
+## dangerzone
 Dangerzone
 > App description.
 
 [More information](https://github.com/freedomofpress/dangerzone)
 
-##darktable:
+## darktable:
 > App description.
 
 [More information](https://github.com/darktable-org/darktable)
 
-##dbeaverce
+## dbeaverce
 DBeaver
 > App description.
 
 [More information](https://dbeaver.io/files/dbeaver-ce-latest-macos-aarch64.dmg)
 
-##debookee
+## debookee
 Debookee
 > App description.
 
 [More information](https://www.iwaxx.com/debookee/appcast.xml)
 
-##defaultfolderx:
+## defaultfolderx:
 > App description.
 
 [More information](https://www.stclairsoft.com/cgi-bin/dl.cgi?DX)
 
-##depnotify
+## depnotify
 DEPNotify
 > App description.
 
 [More information](https://files.nomad.menu/DEPNotify.pkg)
 
-##desktoppr
+## desktoppr
 desktoppr
 > App description.
 
 [More information](https://github.com/scriptingosx/desktoppr)
 
-##detectxswift:
+## detectxswift:
 > App description.
 
 [More information](https://s3.amazonaws.com/sqwarq.com/PublicZips/DetectX_Swift.app.zip)
 
-##devonthink:
+## devonthink:
 > App description.
 
 [More information](https://www.devontechnologies.com/apps/devonthink)
 
-##dialog, swiftdialog
+## dialog, swiftdialog
 Dialog
 > App description.
 
 [More information](https://github.com/bartreardon/swiftDialog)
 
-##dialpad
+## dialpad
 Dialpad
 > App description.
 
 [More information](https://storage.googleapis.com/dialpad_native/osx/Dialpad.dmg)
 
-##discord
+## discord
 Discord
 > App description.
 
 [More information](https://discordapp.com/api/download?platform=osx)
 
-##diskspace
+## diskspace
 diskspace
 > App description.
 
 [More information](https://github.com/scriptingosx/diskspace)
 
-##displaylinkmanager
+## displaylinkmanager
 DisplayLink Manager
 > App description.
 
 [More information](https://www.synaptics.com)
 
-##docker
+## docker
 Docker
 > App description.
 
 [More information](https://desktop.docker.com/mac/stable/arm64/Docker.dmg)
 
-##dockutil
+## dockutil
 dockutil
 > App description.
 
 [More information](https://github.com/kcrawford/dockutil)
 
-##drawio
+## drawio
 draw.io
 > App description.
 
 [More information](https://github.com/jgraph/drawio-desktop)
 
-##drift:
+## drift:
 > App description.
 
 [More information](https://drift-prod-desktop-installers.s3.amazonaws.com/mac/Drift-latest.dmg)
 
-##dropbox
+## dropbox
 Dropbox
 > App description.
 
 [More information](https://www.dropbox.com/download?plat=mac&full=1)
 
-##duckduckgo
+## duckduckgo
 DuckDuckGo
 > App description.
 
 [More information](https://staticcdn.duckduckgo.com/macos-desktop-browser/appcast.xml)
 
-##duodevicehealth
+## duodevicehealth
 Duo Device Health
 > App description.
 
 [More information](https://dl.duosecurity.com/DuoDeviceHealth-latest.dmg)
 
-##dynalist
+## dynalist
 Dynalist
 > App description.
 
 [More information](https://dynalist.io/standalone/download?file=Dynalist.dmg)
 
-##easeusdatarecoverywizard:
+## easeusdatarecoverywizard:
 > App description.
 
 [More information](https://down.easeus.com/product/mac_drw_free_setup)
 
-##easyfind
+## easyfind
 EasyFind
 > App description.
 
 [More information](https://www.devontechnologies.com/apps/freeware)
 
-##egnyte
+## egnyte
 Egnyte Connect
 > App description.
 
 [More information](https://egnyte-cdn.egnyte.com/egnytedrive/mac/en-us/latest/EgnyteConnectMac.pkg)
 
-##egnytecore
+## egnytecore
 Egnyte Core
 > App description.
 
 [More information](https://egnyte-cdn.egnyte.com/desktopapp/mac/en-us/versions/default.xml)
 
-##egnytewebedit
+## egnytewebedit
 EgnyteWebEdit
 > App description.
 
 [More information](https://egnyte-cdn.egnyte.com/webedit/mac/en-us/latest/EgnyteWebEdit.pkg)
 
-##element
+## element
 Element
 > App description.
 
 [More information](https://packages.riot.im/desktop/install/macos/Element.dmg)
 
-##eraseinstall
+## eraseinstall
 EraseInstall
 > App description.
 
 [More information](https://bitbucket.org)
 
-##eshareosx
+## eshareosx
 e-Share
 > App description.
 
 [More information](https://www.ncryptedcloud.com/static/downloads/osx/)
 
-##etrecheck
+## etrecheck
 EtreCheckPro
 > App description.
 
 [More information](https://cdn.etrecheck.com/EtreCheckPro.zip)
 
-##evernote
+## evernote
 Evernote
 > App description.
 
 [More information](https://evernote.com/download)
 
-##exelbanstats:
+## exelbanstats:
 > App description.
 
 [More information](https://github.com/exelban/stats)
 
-##exifrenamer
+## exifrenamer
 ExifRenamer
 > App description.
 
 [More information](https://www.qdev.de/)
 
-##fantastical:
+## fantastical:
 > App description.
 
 [More information](https://flexibits.com/fantastical/download)
 
-##fastscripts
+## fastscripts
 FastScripts
 > App description.
 
 [More information](https://redsweater.com/fastscripts/appcast3.php)
 
-##favro
+## favro
 Favro
 > App description.
 
 [More information](https://download.favro.com/FavroDesktop/macOS/x64/)
 
-##fellow
+## fellow
 Fellow
 > App description.
 
 [More information](https://cdn.fellow.app/desktop/1.3.11/darwin/stable/universal/Fellow-1.3.11-universal.dmg)
 
-##ferdi
+## ferdi
 Ferdi
 > App description.
 
 [More information](https://github.com/getferdi/ferdi)
 
-##figma
+## figma
 Figma
 > App description.
 
 [More information](https://desktop.figma.com/mac/Figma.zip)
 
-##filemakerpro
+## filemakerpro
 FileMaker Pro
 > App description.
 
 [More information](https://www.filemaker.com/redirects/ss.txt)
 
-##filezilla
+## filezilla
 FileZilla
 > App description.
 
 [More information](https://filezilla-project.org/download.php\?show_all=1)
 
-##findanyfile
+## findanyfile
 Find Any File
 > App description.
 
 [More information](https://findanyfile.app/appcast2.php)
 
-##firefox
+## firefox
 Firefox
 > App description.
 
 [More information](https://download.mozilla.org/?product=firefox-latest&os=osx&lang=en-US)
 _Note:_Label firefox and firefox_intl should not be used. Instead use firefoxpkg and firefoxpkg_intl as per recommendations from Firefox. It's not fully certain that the app actually gets updated here. firefoxpkg and firefoxpkg_intl will have built in updates and make sure the client is updated in the future.
 
-##firefox_da
+## firefox_da
 Firefox
 > App description.
 
 [More information](https://download.mozilla.org/?product=firefox-latest&amp;os=osx&amp;lang=da)
 _Note:_Label firefox, firefox_da and firefox_intl should not be used. Instead use firefoxpkg and firefoxpkg_intl as per recommendations from Firefox. It's not fully certain that the app actually gets updated here. firefoxpkg and firefoxpkg_intl will have built in updates and make sure the client is updated in the future.
 
-##firefox_intl
+## firefox_intl
 Firefox
 > App description.
 
 [More information](https://ftp.mozilla.org/pub/firefox/releases/latest/README.txt)
 _Note:_Label firefox and firefox_intl should not be used. Instead use firefoxpkg and firefoxpkg_intl as per recommendations from Firefox. It's not fully certain that the app actually gets updated here. firefoxpkg and firefoxpkg_intl will have built in updates and make sure the client is updated in the future.
 
-##firefoxesr, firefoxesrpkg
+## firefoxesr, firefoxesrpkg
 Firefox
 > App description.
 
 [More information](https://download.mozilla.org/?product=firefox-esr-pkg-latest-ssl&os=osx)
 
-##firefoxesr_intl
+## firefoxesr_intl
 Firefox
 > App description.
 
 [More information](https://ftp.mozilla.org/pub/firefox/releases/latest-esr/README.txt)
 _Note:_Label firefox and firefox_intl should not be used. Instead use firefoxpkg and firefoxpkg_intl as per recommendations from Firefox. It's not fully certain that the app actually gets updated here. firefoxpkg and firefoxpkg_intl will have built in updates and make sure the client is updated in the future.
 
-##firefoxpkg
+## firefoxpkg
 Firefox
 > App description.
 
 [More information](https://download.mozilla.org/?product=firefox-pkg-latest-ssl&os=osx&lang=en-US)
 
-##firefoxpkg_intl
+## firefoxpkg_intl
 Firefox
 > App description.
 
 [More information](https://download.mozilla.org/?product=firefox-pkg-latest-ssl&os=osx&lang=$userLanguage)
 
-##flexoptixapp
+## flexoptixapp
 FLEXOPTIX App
 > App description.
 
 [More information](https://flexbox.reconfigure.me/download/electron/mac/x64/current)
 
-##flowjo
+## flowjo
 FlowJo-OSX64-10.8.0
 > App description.
 
 [More information](https://www.flowjo.com/solutions/flowjo/downloads)
 
-##flux
+## flux
 Flux
 > App description.
 
 [More information](https://justgetflux.com/mac/Flux.zip)
 
-##flycut
+## flycut
 Flycut
 > App description.
 
 [More information](https://github.com/TermiT/Flycut)
 
-##fontexplorer
+## fontexplorer
 FontExplorer X Pro
 > App description.
 
 [More information](http://www.fontexplorerx.com/download/free-trial/Mac)
 
-##front
+## front
 Front
 > App description.
 
 [More information](https://dl.frontapp.com/macos/Front.dmg)
 
-##fsmonitor
+## fsmonitor
 FSMonitor
 > App description.
 
 [More information](https://fsmonitor.com/FSMonitor/Archives/appcast2.xml)
 
-##fujifilmwebcam
+## fujifilmwebcam
 FUJIFILM X Webcam 2
 > App description.
 
 [More information](https://fujifilm-x.com/en-us/support/download/software/x-webcam)
 
-##gfxcardstatus
+## gfxcardstatus
 gfxCardStatus
 > App description.
 
 [More information](https://github.com/codykrieger/gfxCardStatus)
 
-##gimp
+## gimp
 GIMP-2.10
 > App description.
 
 [More information](https://[More information](https://www.gimp.org/downloads)
 
-##githubdesktop
+## githubdesktop
 GitHub Desktop
 > App description.
 
 [More information](https://central.github.com/deployments/desktop/desktop/latest/darwin)
 
-##golang
+## golang
 GoLang
 > App description.
 
 [More information](https://go.dev)
 
-##googleadseditor
+## googleadseditor
 Google Ads Editor
 > App description.
 
 [More information](https://dl.google.com/adwords_editor/google_ads_editor.dmg)
 
-##googlechrome
+## googlechrome
 Google Chrome
 > App description.
 
 [More information](https://dl.google.com/chrome/mac/universal/stable/GGRO/googlechrome.dmg)
 _Note:_Label googlechrome should not be used. Instead use googlechromepkg as per recommendations from Google. It's not fully certain that the app actually gets updated here. googlechromepkg will have built in updates and make sure the client is updated in the future.
 
-##googlechromeenterprise
+## googlechromeenterprise
 Google Chrome
 > App description.
 
 [More information](https://dl.google.com/dl/chrome/mac/universal/stable/gcem/GoogleChrome.pkg)
 
-##googlechromepkg
+## googlechromepkg
 Google Chrome
 > App description.
 
 [More information](https://dl.google.com/chrome/mac/stable/)
 
-##googledrive, googledrivefilestream:
+## googledrive, googledrivefilestream:
 > App description.
 
 [More information](https://dl.google.com/drive-file-stream/)
 
-##googledrivebackupandsync
+## googledrivebackupandsync
 Backup and Sync
 > App description.
 
 [More information](https://dl.google.com/drive/InstallBackupAndSync.dmg)
 
-##googleearth
+## googleearth
 Google Earth Pro
 > App description.
 
 [More information](https://dl.google.com/earth/client/advanced/current/GoogleEarthProMac-Intel.dmg)
 
-##googlejapaneseinput:
+## googlejapaneseinput:
 > App description.
 
 [More information](https://dl.google.com/japanese-ime/latest/GoogleJapaneseInput.dmg)
 
-##googlesoftwareupdate
+## googlesoftwareupdate
 Install Google Software Update
 > App description.
 
 [More information](https://dl.google.com/mac/install/googlesoftwareupdate.dmg)
 
-##gotomeeting
+## gotomeeting
 GoToMeeting
 > App description.
 
 [More information](https://link.gotomeeting.com/latest-dmg)
 
-##gpgsuite:
+## gpgsuite:
 > App description.
 
 [More information](https://gpgtools.org)
 
-##gpgsync
+## gpgsync
 GPG Sync
 > App description.
 
 [More information](https://github.com/firstlookmedia/gpgsync)
 
-##grammarly
+## grammarly
 Grammarly Desktop
 > App description.
 
 [More information](https://download-mac.grammarly.com/Grammarly.dmg)
 
-##grandperspective
+## grandperspective
 GrandPerspective
 > App description.
 
 [More information](https://sourceforge.net/projects/grandperspectiv/files/latest/download)
 
-##grasshopper:
+## grasshopper:
 > App description.
 
 [More information](https://dl.grasshopper.com/Grasshopper.dmg)
 
-##gyazo
+## gyazo
 Gyazo)
 
-##gyazogif
+## gyazogif
 Gyazo GIF)
 
-##hancock
+## hancock
 Hancock
 > App description.
 
 [More information](https://github.com/JeremyAgost/Hancock)
 
-##handbrake
+## handbrake
 HandBrake
 > App description.
 
 [More information](https://github.com/HandBrake/HandBrake)
 
-##hazel:
+## hazel:
 > App description.
 
 [More information](https://www.noodlesoft.com/Products/Hazel/download)
 
-##horos
+## horos
 Horos)
 
-##houdahspot
+## houdahspot
 HoudahSpot
 > App description.
 
 [More information](https://www.houdah.com/houdahSpot/updates/cast6.php)
 
-##hpeasyadmin:
+## hpeasyadmin:
 > App description.
 
 [More information](https://ftp.hp.com/pub/softlib/software12/HP_Quick_Start/osx/Applications/HP_Easy_Admin.app.zip)
 
-##hpeasystart:
+## hpeasystart:
 > App description.
 
 [More information](https://ftp.hp.com/pub/softlib/software12/HP_Quick_Start/osx/Applications/HP_Easy_Start.app.zip)
 
-##hype
+## hype
 Hype4
 > App description.
 
 [More information](https://static.tumult.com/hype/download/Hype.dmg)
 
-##hyper
+## hyper
 Hyper
 > App description.
 
 [More information](https://github.com/vercel/hyper)
 
-##ibarcoder
+## ibarcoder
 iBarcoder
 > App description.
 
 [More information](https://cristallight.com/Downloads/mac/ibarcoder.dmg)
 
-##icons
+## icons
 Icons
 > App description.
 
 [More information](https://github.com/SAP/macOS-icon-generator)
 
-##idrive
+## idrive
 IDrive
 > App description.
 
 [More information](https://static.idriveonlinebackup.com/downloads/version_mac.js)
 
-##idrivethin
+## idrivethin
 IDrive
 > App description.
 
 [More information](https://static.idriveonlinebackup.com/downloads/idrivethin/thin_version.js)
 
-##iina
+## iina
 IINA
 > App description.
 
 [More information](https://github.com/iina/iina)
 
-##imageoptim
+## imageoptim
 imageoptim
 > App description.
 
 [More information](https://imageoptim.com/ImageOptim.tbz2)
 
-##imazingprofileeditor
+## imazingprofileeditor
 iMazing Profile Editor
 > App description.
 
 [More information](https://downloads.imazing.com/mac/iMazing-Profile-Editor/iMazingProfileEditorMac.dmg)
 
-##inetclearreportsdesigner
+## inetclearreportsdesigner
 i-Net Clear Reports Designer)
 
-##inkscape:
+## inkscape:
 > App description.
 
 [More information](https://inkscape.org)
 
-##insomnia
+## insomnia
 Insomnia
 > App description.
 
 [More information](https://updates.insomnia.rest/downloads/mac/latest?app=com.insomnia.app&source=website)
 
-##installomator, installomator_theile
+## installomator, installomator_theile
 Installomator
 > App description.
 
 [More information](https://github.com/Installomator/Installomator)
 
-##ipswupdater
+## ipswupdater
 IPSW Updater
 > App description.
 
 [More information](https://ipsw.app/download/updates.php?current_version=0.9.16)
 
-##istatmenus:
+## istatmenus:
 > App description.
 
 [More information](https://download.bjango.com/istatmenus)
 
-##iterm2
+## iterm2
 iTerm
 > App description.
 
 [More information](https://iterm2.com/downloads/stable/latest)
 
-##itsycal
+## itsycal
 Itsycal
 > App description.
 
 [More information](https://s3.amazonaws.com/itsycal/itsycal-apple-silicon.xml)
 
-##jabradirect
+## jabradirect
 Jabra Direct
 > App description.
 
 [More information](https://jabraxpressonlineprdstor.blob.core.windows.net/jdo/JabraDirectSetup.dmg)
 
-##jamfconnect
+## jamfconnect
 Jamf Connect
 > App description.
 
 [More information](https://files.jamfconnect.com/JamfConnect.dmg)
 
-##jamfconnectconfiguration
+## jamfconnectconfiguration
 Jamf Connect Configuration
 > App description.
 
 [More information](https://files.jamfconnect.com/JamfConnect.dmg)
 
-##jamfmigrator
+## jamfmigrator
 jamf-migrator
 > App description.
 
 [More information](https://github.com/jamf/JamfMigrator)
 
-##jamfpppcutility
+## jamfpppcutility
 PPPC Utility
 > App description.
 
 [More information](https://github.com/jamf/PPPC-Utility)
 
-##jamfreenroller
+## jamfreenroller
 ReEnroller
 > App description.
 
 [More information](https://github.com/jamf/ReEnroller)
 
-##jdk18
+## jdk18
 Java SE Development Kit 18
 > App description.
 
 [More information](https://download.oracle.com/java/18/latest/jdk-18_macos-aarch64_bin.dmg)
 
-##jetbrainsclion
+## jetbrainsclion
 CLion
 > App description.
 
 [More information](https://download.jetbrains.com/)
 
-##jetbrainsdatagrip
+## jetbrainsdatagrip
 DataGrip
 > App description.
 
 [More information](https://download.jetbrains.com/)
 
-##jetbrainsintellijidea
+## jetbrainsintellijidea
 IntelliJ IDEA
 > App description.
 
 [More information](https://download.jetbrains.com/)
 
-##jetbrainsintellijideace, intellijideace
+## jetbrainsintellijideace, intellijideace
 IntelliJ IDEA CE
 > App description.
 
 [More information](https://download.jetbrains.com/)
 
-##jetbrainsphpstorm
+## jetbrainsphpstorm
 PHPStorm
 > App description.
 
 [More information](https://download.jetbrains.com/)
 
-##jetbrainspycharm
+## jetbrainspycharm
 PyCharm
 > App description.
 
 [More information](https://download.jetbrains.com/)
 
-##jetbrainspycharmce, pycharmce
+## jetbrainspycharmce, pycharmce
 PyCharm CE
 > App description.
 
 [More information](https://download.jetbrains.com/)
 
-##jetbrainsrubymine
+## jetbrainsrubymine
 RubyMine
 > App description.
 
 [More information](https://download.jetbrains.com/)
 
-##jetbrainstoolbox
+## jetbrainstoolbox
 JetBrains Toolbox
 > App description.
 
 [More information](https://download.jetbrains.com/)
 
-##jetbrainswebstorm
+## jetbrainswebstorm
 Webstorm
 > App description.
 
 [More information](https://download.jetbrains.com/)
 
-##kap:
+## kap:
 > App description.
 
 [More information](https://github.com/wulkano/kap)
 
-##karabinerelements:
+## karabinerelements:
 > App description.
 
 [More information](https://github.com/pqrs-org/Karabiner-Elements)
 
-##keepassxc
+## keepassxc
 KeePassXC
 > App description.
 
 [More information](https://github.com/keepassxreboot/keepassxc)
 
-##keepingyouawake
+## keepingyouawake
 KeepingYouAwake
 > App description.
 
 [More information](https://github.com/newmarcel/KeepingYouAwake)
 
-##keka
+## keka
 Keka
 > App description.
 
 [More information](https://github.com/aonez/Keka)
 
-##keybase
+## keybase
 Keybase
 > App description.
 
 [More information](https://keybase.io/docs/the_app/install_macos)
 
-##keyboardmaestro:
+## keyboardmaestro:
 > App description.
 
 [More information](https://download.keyboardmaestro.com)
 
-##klokki:
+## klokki:
 > App description.
 
 [More information](https://storage.yandexcloud.net/klokki/Klokki.dmg)
 
-##knockknock
+## knockknock
 KnockKnock
 > App description.
 
 [More information](https://github.com/objective-see/KnockKnock)
 
-##krisp:
+## krisp:
 > App description.
 
 [More information](https://download.krisp.ai/mac)
 
-##krita:
+## krita:
 > App description.
 
 [More information](https://krita.org/en/download/krita-desktop)
 
-##lastpass
+## lastpass
 LastPass
 > App description.
 
 [More information](https://download.cloud.lastpass.com/mac/LastPass.dmg)
 
-##latexit
+## latexit
 LaTeXiT
 > App description.
 
 [More information](https://pierre.chachatelier.fr/latexit/downloads/latexit-sparkle-en.rss)
 
-##launchbar
+## launchbar
 LaunchBar
 > App description.
 
 [More information](https://obdev.at/products/launchbar/download.html)
 
-##lcadvancedvpnclient
+## lcadvancedvpnclient
 LANCOM Advanced VPN Client)
 
-##lexarrecoverytool
+## lexarrecoverytool
 Lexar Recovery Tool
 > App description.
 
 [More information](https://www.lexar.com/wp-content/uploads/product_images/Lexar-Recovery-Tool-Mac.zip)
 
-##libreoffice
+## libreoffice
 LibreOffice
 > App description.
 
 [More information](https://downloadarchive.documentfoundation.org/libreoffice/old/latest/mac/aarch64)
 
-##linear
+## linear
 Linear
 > App description.
 
 [More information](https://desktop.linear.app/mac/dmg/arm64)
 
-##logioptions, logitechoptions
+## logioptions, logitechoptions
 Logi Options
 > App description.
 
 [More information](https://download01.logi.com/web/ftp/pub/techsupport/options/options_installer.zip)
 
-##logseq
+## logseq
 Logseq
 > App description.
 
 [More information](https://github.com/logseq/logseq)
 
-##loom:
+## loom:
 > App description.
 
 [More information](https://cdn.loom.com/desktop-packages/)
 
-##lowprofile
+## lowprofile
 Low Profile
 > App description.
 
 [More information](https://github.com/ninxsoft/LowProfile)
 
-##lucifer:
+## lucifer:
 > App description.
 
 [More information](https://www.hexedbits.com/downloads/lucifer.zip)
 
-##lulu
+## lulu
 LuLu
 > App description.
 
 [More information](https://github.com/objective-see/LuLu)
 
-##macadminspython
+## macadminspython
 MacAdmins Python
 > App description.
 
 [More information](https://api.github.com/repos/macadmins/python/releases/latest)
 
-##maccyapp
+## maccyapp
 Maccy
 > App description.
 
 [More information](https://github.com/p0deje/Maccy)
 
-##macfuse
+## macfuse
 FUSE for macOS
 > App description.
 
 [More information](https://github.com/osxfuse/osxfuse)
 
-##macoslaps
+## macoslaps
 macOSLAPS
 > App description.
 
 [More information](https://github.com/joshua-d-miller/macOSLAPS)
 
-##macports
+## macports
 MacPorts
 > App description.
 
 [More information](https://github.com/macports/macports-base)
 
-##malwarebytes
+## malwarebytes
 Malwarebytes
 > App description.
 
 [More information](https://downloads.malwarebytes.com/file/mb3-mac)
 
-##marathon
+## marathon
 Marathon
 > App description.
 
 [More information](https://github.com/Aleph-One-Marathon/alephone)
 
-##marathon2
+## marathon2
 Marathon 2
 > App description.
 
 [More information](https://github.com/Aleph-One-Marathon/alephone)
 
-##marathoninfinity
+## marathoninfinity
 Marathon Infinity
 > App description.
 
 [More information](https://github.com/Aleph-One-Marathon/alephone)
 
-##masv
+## masv
 MASV
 > App description.
 
 [More information](https://dl.massive.io/MASV.dmg)
 
-##mattermost
+## mattermost
 Mattermost
 > App description.
 
 [More information](https://github.com/mattermost/desktop)
 
-##menumeters
+## menumeters
 MenuMeters
 > App description.
 
 [More information](https://github.com/yujitach/MenuMeters)
 
-##merlinproject
+## merlinproject
 Merlin Project
 > App description.
 
 [More information](https://www.projectwizards.net/downloads/MerlinProject.zip)
 
-##microsoftautoupdate
+## microsoftautoupdate
 Microsoft AutoUpdate
 > App description.
 
 [More information](https://go.microsoft.com/fwlink/?linkid=830196)
 
-##microsoftazuredatastudio, azuredatastudio
+## microsoftazuredatastudio, azuredatastudio
 Azure Data Studio
 > App description.
 
 [More information](https://github.com/microsoft/azuredatastudio)
 
-##microsoftazurestorageexplorer
+## microsoftazurestorageexplorer
 Microsoft Azure Storage Explorer
 > App description.
 
 [More information](https://github.com/microsoft/AzureStorageExplorer)
 
-##microsoftcompanyportal
+## microsoftcompanyportal
 Company Portal
 > App description.
 
 [More information](https://go.microsoft.com/fwlink/?linkid=869655)
 
-##microsoftdefender, microsoftdefenderatp
+## microsoftdefender, microsoftdefenderatp
 Microsoft Defender
 > App description.
 
 [More information](https://go.microsoft.com/fwlink/?linkid=2097502)
 
-##microsoftedge, microsoftedgeconsumerstable, microsoftedgeenterprisestable
+## microsoftedge, microsoftedgeconsumerstable, microsoftedgeenterprisestable
 Microsoft Edge
 > App description.
 
 [More information](https://go.microsoft.com/fwlink/?linkid=2093504)
 
-##microsoftexcel
+## microsoftexcel
 Microsoft Excel
 > App description.
 
 [More information](https://go.microsoft.com/fwlink/?linkid=525135)
 
-##microsoftlicenseremovaltool
+## microsoftlicenseremovaltool
 Microsoft License Removal Tool
 > App description.
 
 [More information](https://go.microsoft.com/fwlink/?linkid=849815)
 
-##microsoftoffice365
+## microsoftoffice365
 MicrosoftOffice365
 > App description.
 
 [More information](https://go.microsoft.com/fwlink/?linkid=525133)
 
-##microsoftofficebusinesspro
+## microsoftofficebusinesspro
 MicrosoftOfficeBusinessPro
 > App description.
 
 [More information](https://go.microsoft.com/fwlink/?linkid=2009112)
 
-##microsoftonedrive
+## microsoftonedrive
 OneDrive
 > App description.
 
 [More information](https://go.microsoft.com/fwlink/?linkid=823060)
 
-##microsoftonenote
+## microsoftonenote
 Microsoft OneNote
 > App description.
 
 [More information](https://go.microsoft.com/fwlink/?linkid=820886)
 
-##microsoftoutlook
+## microsoftoutlook
 Microsoft Outlook
 > App description.
 
 [More information](https://go.microsoft.com/fwlink/?linkid=525137)
 
-##microsoftpowerpoint
+## microsoftpowerpoint
 Microsoft PowerPoint
 > App description.
 
 [More information](https://go.microsoft.com/fwlink/?linkid=525136)
 
-##microsoftremotedesktop
+## microsoftremotedesktop
 Microsoft Remote Desktop
 > App description.
 
 [More information](https://go.microsoft.com/fwlink/?linkid=868963)
 
-##microsoftsharepointplugin
+## microsoftsharepointplugin
 MicrosoftSharePointPlugin
 > App description.
 
 [More information](https://go.microsoft.com/fwlink/?linkid=800050)
 
-##microsoftskypeforbusiness
+## microsoftskypeforbusiness
 Skype for Business
 > App description.
 
 [More information](https://go.microsoft.com/fwlink/?linkid=832978)
 
-##microsoftteams
+## microsoftteams
 Microsoft Teams
 > App description.
 
 [More information](https://go.microsoft.com/fwlink/?linkid=869428)
 
-##microsoftvisualstudiocode, visualstudiocode
+## microsoftvisualstudiocode, visualstudiocode
 Visual Studio Code
 > App description.
 
 [More information](https://go.microsoft.com/fwlink/?LinkID=2156837)
 
-##microsoftword
+## microsoftword
 Microsoft Word
 > App description.
 
 [More information](https://go.microsoft.com/fwlink/?linkid=525134)
 
-##mightymike
+## mightymike
 Mighty Mike
 > App description.
 
 [More information](https://github.com/jorio/MightyMike)
 
-##mindmanager
+## mindmanager
 MindManager
 > App description.
 
 [More information](https://www.mindmanager.com/mm-mac-dmg)
 
-##miro
+## miro
 Miro
 > App description.
 
 [More information](https://desktop.miro.com/platforms/darwin-arm64/Miro.dmg)
 
-##mmhmm
+## mmhmm
 mmhmm
 > App description.
 
 [More information](https://updates.mmhmm.app/mac/mmhmm.pkg)
 
-##mobikinassistantforandroid
+## mobikinassistantforandroid
 MobiKin Assistant for Android
 > App description.
 
 [More information](https://www.mobikin.com/downloads/mobikin-android-assistant.dmg)
 
-##mochakeyboard
+## mochakeyboard
 Mocha Keyboard
 > App description.
 
 [More information](https://mochasoft.dk/mochakeyboard.dmg.zip)
 
-##mochatelnet
+## mochatelnet
 Telnet
 > App description.
 
 [More information](https://mochasoft.dk/telnet.dmg.zip)
 
-##mochatn3270
+## mochatn3270
 TN3270
 > App description.
 
 [More information](https://mochasoft.dk/tn3270.dmg.zip)
 
-##mochatn3812
+## mochatn3812
 TN3812
 > App description.
 
 [More information](https://mochasoft.dk/tn3812.dmg.zip)
 
-##mochatn5250
+## mochatn5250
 TN5250
 > App description.
 
 [More information](https://mochasoft.dk/tn5250.dmg.zip)
 
-##mongodbcompass
+## mongodbcompass
 MongoDB Compass
 > App description.
 
 [More information](https://github.com/mongodb-js/compass)
 
-##montereyblocker
+## montereyblocker
 montereyblocker
 > App description.
 
 [More information](https://github.com/Theile/montereyblocker)
 
-##mowgliiitsycal
+## mowgliiitsycal
 Itsycal
 > App description.
 
 [More information](https://s3.amazonaws.com/itsycal/itsycal.xml)
 
-##musescore
+## musescore
 MuseScore 3
 > App description.
 
 [More information](https://github.com/musescore/MuseScore)
 
-##muzzle
+## muzzle
 Muzzle
 > App description.
 
 [More information](https://muzzleapp.com/binaries/muzzle.zip)
 
-##nanosaur
+## nanosaur
 Nanosaur
 > App description.
 
 [More information](https://github.com/jorio/Nanosaur)
 
-##netnewswire
+## netnewswire
 NetNewsWire
 > App description.
 
 [More information](https://ranchero.com/downloads/netnewswire-release.xml)
 
-##netspot
+## netspot
 NetSpot
 > App description.
 
 [More information](https://cdn.netspotapp.com/download/NetSpot.dmg)
 
-##nextcloud
+## nextcloud
 nextcloud
 > App description.
 
 [More information](https://github.com/nextcloud/desktop)
 
-##nomad:
+## nomad:
 > App description.
 
 [More information](https://files.nomad.menu/NoMAD.pkg)
 
-##nomadlogin:
+## nomadlogin:
 > App description.
 
 [More information](https://files.nomad.menu/NoMAD-Login-AD.pkg)
 
-##nordlayer:
+## nordlayer:
 > App description.
 
 [More information](https://downloads.nordlayer.com/mac/latest/NordLayer.pkg)
 
-##notion:
+## notion:
 > App description.
 
 [More information](https://www.notion.so/desktop/apple-silicon/download)
 
-##nudge
+## nudge
 Nudge
 > App description.
 
 [More information](https://github.com/macadmins/Nudge)
 
-##nudgesuite
+## nudgesuite
 Nudge Suite
 > App description.
 
 [More information](https://github.com/macadmins/Nudge)
 
-##nvivo
+## nvivo
 NVivo
 > App description.
 
 [More information](https://download.qsrinternational.com/Software/NVivoforMac/NVivo.dmg)
 
-##obs
+## obs
 OBS
 > App description.
 
 [More information](https://github.com/obsproject/obs-studio)
 
-##obsidian:
+## obsidian:
 > App description.
 
 [More information](https://github.com/obsidianmd/obsidian-releases)
 
-##odrive:
+## odrive:
 > App description.
 
 [More information](https://www.odrive.com/downloaddesktop?platform=mac)
 
-##omnidisksweeper
+## omnidisksweeper
 OmniDiskSweeper
 > App description.
 
 [More information](https://update.omnigroup.com/appcast/com.omnigroup.OmniDiskSweeper)
 
-##omnifocus3
+## omnifocus3
 OmniFocus
 > App description.
 
 [More information](https://update.omnigroup.com/appcast/com.omnigroup.OmniFocus3)
 
-##omnigraffle6
+## omnigraffle6
 OmniGraffle
 > App description.
 
 [More information](https://update.omnigroup.com/appcast/com.omnigroup.OmniGraffle6)
 
-##omnigraffle7
+## omnigraffle7
 OmniGraffle
 > App description.
 
 [More information](https://update.omnigroup.com/appcast/com.omnigroup.OmniGraffle7)
 
-##omnioutliner5
+## omnioutliner5
 OmniOutliner
 > App description.
 
 [More information](https://update.omnigroup.com/appcast/com.omnigroup.OmniOutliner5)
 
-##omniplan3
+## omniplan3
 OmniPlan
 > App description.
 
 [More information](https://update.omnigroup.com/appcast/com.omnigroup.OmniPlan3)
 
-##omniplan4
+## omniplan4
 OmniPlan
 > App description.
 
 [More information](https://update.omnigroup.com/appcast/com.omnigroup.OmniPlan4)
 
-##omnipresence
+## omnipresence
 OmniPresence
 > App description.
 
 [More information](https://update.omnigroup.com/appcast/com.omnigroup.OmniPresence)
 
-##onionshare:
+## onionshare:
 > App description.
 
 [More information](https://onionshare.org)
 
-##onlyofficedesktop
+## onlyofficedesktop
 ONLYOFFICE
 > App description.
 
 [More information](https://download.onlyoffice.com/install/desktop/editors/mac/arm/distrib/ONLYOFFICE.dmg)
 
-##openvpnconnect:
+## openvpnconnect:
 > App description.
 
 [More information](https://openvpn.net/downloads/openvpn-connect-v2-macos.dmg)
 
-##openvpnconnectv3
+## openvpnconnectv3
 OpenVPN Connect
 > App description.
 
 [More information](https://openvpn.net/downloads/openvpn-connect-v3-macos.dmg)
 
-##opera
+## opera
 Opera
 > App description.
 
 [More information](https://download.opera.com/download/get/?partner=www&opsys=MacOS)
 
-##origin
+## origin
 Origin
 > App description.
 
 [More information](https://www.dm.origin.com/mac/download/Origin.dmg)
 
-##ottomatic
+## ottomatic
 Otto Matic
 > App description.
 
 [More information](https://github.com/jorio/OttoMatic)
 
-##overflow
+## overflow
 Overflow
 > App description.
 
 [More information](https://overflow.io/download/')
 
-##pacifist
+## pacifist
 Pacifist
 > App description.
 
 [More information](https://charlessoft.com/cgi-bin/pacifist_download.cgi?type=dmg)
 
-##packages
+## packages
 Packages
 _Note:_Packages is signed but _not_ notarized, so spctl will reject it
 > App description.
 
 [More information](http://s.sudre.free.fr/Software/files/Packages.dmg)
 
-##pandoc
+## pandoc
 Pandoc
 > App description.
 
 [More information](https://github.com/jgm/pandoc)
 
-##parallelsrasclient
+## parallelsrasclient
 Parallels Client)
 
-##paretosecurity
+## paretosecurity
 Pareto Security
 > App description.
 
 [More information](https://github.com/ParetoSecurity/pareto-mac)
 
-##parsec
+## parsec
 Parsec
 > App description.
 
 [More information](https://builds.parsecgaming.com/package/parsec-macos.pkg)
 
-##pdfsam
+## pdfsam
 PDFsam Basic
 > App description.
 
 [More information](https://github.com/torakiki/pdfsam)
 
-##perimeter81
+## perimeter81
 Perimeter 81
 > App description.
 
 [More information](https://static.perimeter81.com/agents/mac/snapshot/latest/Perimeter81.pkg)
 
-##pika
+## pika
 Pika
 > App description.
 
 [More information](https://github.com/superhighfives/pika)
 
-##pitch
+## pitch
 Pitch
 > App description.
 
 [More information](https://desktop.pitch.com/mac/Pitch.dmg)
 
-##plantronicshub
+## plantronicshub
 Plantronics Hub
 > App description.
 
 [More information](https://www.poly.com/content/dam/www/software/PlantronicsHubInstaller.dmg)
 
-##platypus
+## platypus
 Platypus
 > App description.
 
 [More information](https://github.com/sveinbjornt/Platypus)
 
-##plisteditpro
+## plisteditpro
 PlistEdit Pro
 > App description.
 
 [More information](https://www.fatcatsoftware.com/plisteditpro/PlistEditPro.zip)
 
-##polylens
+## polylens
 Poly Lens)
 
-##postman
+## postman
 Postman
 > App description.
 
 [More information](https://dl.pstmn.io/download/latest/osx_arm64)
 
-##prism9
+## prism9
 Prism 9
 > App description.
 
 [More information](https://cdn.graphpad.com/downloads/prism/9/InstallPrism9.dmg)
 
-##pritunl
+## pritunl
 Pritunl
 > App description.
 
 [More information](https://github.com/pritunl/pritunl-client-electron)
 
-##privileges:
+## privileges:
 > App description.
 
 [More information](https://github.com/sap/macOS-enterprise-privileges)
 
-##proctortrack:
+## proctortrack:
 > App description.
 
 [More information](https://storage.googleapis.com/verificientstatic/ProctortrackApp/Production/Proctortrack.zip)
 
-##promiseutility, promiseutilityr
+## promiseutility, promiseutilityr
 Promise Utility
 > App description.
 
 [More information](https://www.promise.com/DownloadFile.aspx?DownloadFileUID=6533)
 
-##propresenter7
+## propresenter7
 ProPresenter 7
 > App description.
 
 [More information](https://api.renewedvision.com/v1/pro/upgrade?platform=macos&osVersion=12&appVersion=771&buildNumber=117899527&includeNotes=false)
 
-##protonvpn
+## protonvpn
 ProtonVPN
 > App description.
 
 [More information](https://protonvpn.com/download)
 
-##proxyman
+## proxyman
 Proxyman
 > App description.
 
 [More information](https://github.com/ProxymanApp/Proxyman)
 
-##prune
+## prune
 Prune
 > App description.
 
 [More information](https://github.com/BIG-RAT/Prune)
 
-##pymol
+## pymol
 PyMOL
 > App description.
 
 [More information](https://pymol.org)
 
-##qgis-pr
+## qgis-pr
 QGIS
 > App description.
 
 [More information](https://download.qgis.org/downloads/macos/qgis-macos-pr.dmg)
 
-##r
+## r
 R
 > App description.
 
 [More information](https://cloud.r-project.org/bin/macosx/)
 
-##ramboxce
+## ramboxce
 Rambox
 > App description.
 
 [More information](https://github.com/ramboxapp/community-edition)
 
-##rancherdesktop
+## rancherdesktop
 Rancher Desktop
 > App description.
 
 [More information](https://github.com/rancher-sandbox/rancher-desktop)
 
-##rectangle
+## rectangle
 Rectangle
 > App description.
 
 [More information](https://github.com/rxhanson/Rectangle)
 
-##redeye:
+## redeye:
 > App description.
 
 [More information](https://www.hexedbits.com/downloads/redeye.zip)
 
-##relatel
+## relatel
 Relatel
 > App description.
 
 [More information](https://cdn.rela.tel/www/public/junotron/Relatel.dmg)
 
-##remotedesktopmanagerenterprise
+## remotedesktopmanagerenterprise
 Remote Desktop Manager
 > App description.
 
 [More information](https://devolutions.net/remote-desktop-manager/home/thankyou/rdmmacbin)
 
-##remotedesktopmanagerfree
+## remotedesktopmanagerfree
 Remote Desktop Manager Free
 > App description.
 
 [More information](https://devolutions.net/remote-desktop-manager/home/thankyou/rdmmacfreebin)
 
-##resiliosynchome
+## resiliosynchome
 Resilio Sync
 > App description.
 
 [More information](https://download-cdn.resilio.com/stable/osx/Resilio-Sync.dmg)
 
-##retrobatch
+## retrobatch
 Retrobatch
 > App description.
 
 [More information](https://flyingmeat.com/download/Retrobatch.zip)
 
-##ricohpsprinters
+## ricohpsprinters
 Ricoh Printers
 > App description.
 
 [More information](https://support.ricoh.com//bb/html/dr_ut_e/rc3/model/mpc3004ex/mpc3004exen.htm)
 
-##ringcentralapp:
+## ringcentralapp:
 > App description.
 
 [More information](https://app.ringcentral.com/download/RingCentral.pkg)
 
-##ringcentralclassicapp
+## ringcentralclassicapp
 Glip
 > App description.
 
 [More information](https://downloads.ringcentral.com/glip/rc/GlipForMac)
 
-##ringcentralmeetings:
+## ringcentralmeetings:
 > App description.
 
 [More information](http://dn.ringcentral.com/data/web/download/RCMeetings/1210/RCMeetingsClientSetup.pkg)
 
-##ringcentralphone:
+## ringcentralphone:
 > App description.
 
 [More information](https://downloads.ringcentral.com/sp/RingCentralForMac)
 
-##rocket
+## rocket
 Rocket
 > App description.
 
 [More information](https://macrelease.matthewpalmer.net/Rocket.dmg)
 
-##rocketchat
+## rocketchat
 Rocket.Chat
 > App description.
 
 [More information](https://github.com/RocketChat/Rocket.Chat.Electron)
 
-##rodeconnect
+## rodeconnect
 RODE Connect
 > App description.
 
 [More information](https://cdn1.rode.com/rodeconnect_installer_mac.zip)
 
-##royaltsx
+## royaltsx
 Royal TSX
 > App description.
 
 [More information](https://royaltsx-v5.royalapps.com/updates_stable)
 
-##rstudio
+## rstudio
 RStudio
 > App description.
 
 [More information](https://rstudio.com/products/rstudio/download)
 
-##santa:
+## santa:
 > App description.
 
 [More information](https://github.com/google/santa)
 
-##scaleft
+## scaleft
 ScaleFT
 > App description.
 
 [More information](https://dist.scaleft.com/client-tools/mac/latest/ScaleFT.pkg)
 
-##screamingfrogseospider
+## screamingfrogseospider
 Screaming Frog SEO Spider
 > App description.
 
 [More information](https://www.screamingfrog.co.uk/wp-content/themes/screamingfrog/inc/download-modal.php)
 
-##screencloudplayer
+## screencloudplayer
 ScreenCloud Player
 > App description.
 
 [More information](https://screencloud.com/download)
 
-##screenflick:
+## screenflick:
 > App description.
 
 [More information](https://www.araelium.com/screenflick/downloads/Screenflick.zip)
 
-##sdnotary
+## sdnotary
 SD Notary
 > App description.
 
 [More information](https://latenightsw.com/sd-notary-notarizing-made-easy)
 
-##secretive
+## secretive
 Secretive
 > App description.
 
 [More information](https://github.com/maxgoedjen/secretive)
 
-##sequelpro
+## sequelpro
 Sequel Pro
 > App description.
 
 [More information](https://github.com/sequelpro/sequelpro)
 
-##shield:
+## shield:
 > App description.
 
 [More information](https://github.com/theevilbit/Shield)
 
-##shottr
+## shottr
 Shottr
 > App description.
 
 [More information](https://shottr.cc/dl/Shottr-1.5.3.dmg)
 
-##sidekick
+## sidekick
 Sidekick
 > App description.
 
 [More information](https://api.meetsidekick.com/downloads/df/mac)
 
-##signal
+## signal
 Signal
 > App description.
 
 [More information](https://updates.signal.org/desktop/)
 
-##silnite:
+## silnite:
 > App description.
 
 [More information](https://eclecticlight.co/downloads)
 
-##sirimote
+## sirimote
 SiriMote
 > App description.
 
 [More information](http://bit.ly/sirimotezip)
 
-##sizeup:
+## sizeup:
 > App description.
 
 [More information](https://www.irradiatedsoftware.com/download/SizeUp.zip)
 
-##sketch
+## sketch
 Sketch
 > App description.
 
 [More information](https://www.sketch.com/downloads/mac)
 
-##sketchupviewer
+## sketchupviewer
 SketchUpViewer
 > App description.
 
 [More information](https://www.sketchup.com/sketchup/SketchUpViewer-en-dmg)
 
-##skype
+## skype
 Skype
 > App description.
 
 [More information](https://get.skype.com/go/getskype-skypeformac)
 
-##slab
+## slab
 Slab
 > App description.
 
 [More information](https://github.com/slab/desktop-releases)
 
-##slack
+## slack
 Slack
 > App description.
 
 [More information](https://slack.com/ssb/download-osx-universal)
 
-##smartgit
+## smartgit
 SmartGit
 > App description.
 
 [More information](https://www.syntevo.com)
 
-##snagit, snagit2022
+## snagit, snagit2022
 Snagit 2022
 > App description.
 
 [More information](https://support.techsmith.com/hc/en-us/articles/360004908652-Desktop-Product-Download-Links)
 
-##snagit2019
+## snagit2019
 Snagit 2019
 > App description.
 
 [More information](https://support.techsmith.com/hc/en-us/articles/360004908652-Desktop-Product-Download-Links)
 
-##snagit2020
+## snagit2020
 Snagit 2020
 > App description.
 
 [More information](https://support.techsmith.com/hc/en-us/articles/360004908652-Desktop-Product-Download-Links)
 
-##snagit2021
+## snagit2021
 Snagit 2021
 > App description.
 
 [More information](https://support.techsmith.com/hc/en-us/articles/360004908652-Desktop-Product-Download-Links)
 
-##snapgeneviewer
+## snapgeneviewer
 SnapGene Viewer
 > App description.
 
 [More information](https://www.snapgene.com/local/targets/download.php?variant=viewer&os=mac&majorRelease=latest&minorRelease=latest)
 
-##sonicvisualiser
+## sonicvisualiser
 Sonic Visualiser
 > App description.
 
 [More information](https://github.com/sonic-visualiser/sonic-visualiser)
 
-##sonobus
+## sonobus
 Sonobus
 > App description.
 
 [More information](https://www.sonobus.net/$downloadFile)
 
-##sonos, sonoss1:
+## sonos, sonoss1:
 > App description.
 
 [More information](https://www.sonos.com/redir/controller_software_mac)
 
-##sonoss2
+## sonoss2
 Sonos
 > App description.
 
 [More information](https://www.sonos.com/redir/controller_software_mac2)
 
-##sourcetree
+## sourcetree
 Sourcetree
 > App description.
 
 [More information](https://www.sourcetreeapp.com)
 
-##splashtopbusiness
+## splashtopbusiness
 Splashtop Business
 > App description.
 
 [More information](https://www.splashtop.com/)
 
-##splashtopsos
+## splashtopsos
 Splashtop SOS
 > App description.
 
 [More information](https://download.splashtop.com/sos/SplashtopSOS.dmg)
 
-##spotify
+## spotify
 Spotify
 > App description.
 
 [More information](https://download.scdn.co/SpotifyARM64.dmg)
 > App description.
 
-##sqlpropostgres
+## sqlpropostgres
 SQLPro for Postgres
 > App description.
 
 [More information](https://macpostgresclient.com/download.php)
 
-##sqlprostudio
+## sqlprostudio
 SQLPro Studio
 > App description.
 
 [More information](https://www.sqlprostudio.com/download.php)
 
-##steelseriesengine
+## steelseriesengine
 SteelSeries GG
 > App description.
 
 [More information](https://steelseries.com/engine/latest/darwin)
 
-##strongdm
+## strongdm
 strongDM
 > App description.
 
 [More information](https://app.strongdm.com/downloads/client/darwin)
 
-##strongsync
+## strongsync
 Strongsync
 > App description.
 
 [More information](https://updates.expandrive.com/appcast/strongsync.xml)
 
-##sublimetext:
+## sublimetext:
 > App description.
 
 [More information](https://www.sublimetext.com/download_thanks?target=mac#direct-downloads)
 
-##superhuman
+## superhuman
 superhuman
 > App description.
 
 [More information](https://download.superhuman.com/Superhuman-arm64.dmg)
 
-##supportapp
+## supportapp
 Support
 > App description.
 
 [More information](https://github.com/root3nl/SupportApp)
 
-##suspiciouspackage:
+## suspiciouspackage:
 > App description.
 
 [More information](https://mothersruin.com/software/downloads/SuspiciousPackage.dmg)
 
-##swiftruntimeforcommandlinetools
+## swiftruntimeforcommandlinetools
 SwiftRuntimeForCommandLineTools
 > App description.
 
 [More information](https://updates.cdn-apple.com/2019/cert/061-41823-20191025-5efc5a59-d7dc-46d3-9096-396bb8cb4a73/SwiftRuntimeForCommandLineTools.dmg)
 
-##sync
+## sync
 Sync
 > App description.
 
 [More information](https://www.sync.com/download/apple/Sync.dmg)
 
-##synologyassistant
+## synologyassistant
 SynologyAssistant)
 
-##synologydriveclient
+## synologydriveclient
 Synology Drive Client
 > App description.
 
 [More information](https://archive.synology.com/download/Utility/SynologyDriveClient)
 
-##tableaudesktop
+## tableaudesktop
 Tableau Desktop
 > App description.
 
 [More information](https://www.tableau.com/downloads/desktop/mac)
 
-##tableaupublic
+## tableaupublic
 Tableau Public
 > App description.
 
 [More information](https://www.tableau.com/downloads/public/mac)
 
-##tableaureader
+## tableaureader
 Tableau Reader
 > App description.
 
 [More information](https://www.tableau.com/downloads/reader/mac)
 
-##tageditor
+## tageditor
 Tag Editor
 > App description.
 
 [More information](https://amvidia.com/downloads/tag-editor-mac.dmg)
 
-##tailscale
+## tailscale
 Tailscale)
 
-##talkdeskcallbar
+## talkdeskcallbar
 Callbar
 > App description.
 
 [More information](https://downloadcallbar.talkdesk.com/)
 
-##talkdeskcxcloud
+## talkdeskcxcloud
 Talkdesk
 > App description.
 
 [More information](https://td-infra-prd-us-east-1-s3-atlaselectron.s3.amazonaws.com/talkdesk-latest-metadata.json)
 
-##taskpaper:
+## taskpaper:
 > App description.
 
 [More information](https://www.taskpaper.com/assets/app/TaskPaper.dmg)
 
-##teamviewer
+## teamviewer
 TeamViewer
 > App description.
 
 [More information](https://download.teamviewer.com/download/TeamViewer.dmg)
 
-##teamviewerhost
+## teamviewerhost
 TeamViewerHost)
 
-##teamviewerqs:
+## teamviewerqs:
 > App description.
 
 [More information](https://download.teamviewer.com/download/TeamViewerQS.dmg)
 
-##techsmithcapture:
+## techsmithcapture:
 > App description.
 
 [More information](https://cdn.cloud.techsmith.com/techsmithcapture/mac/TechSmithCapture.dmg)
 
-##telegram
+## telegram
 Telegram
 > App description.
 
 [More information](https://telegram.org/dl/macos)
 
-##tembo
+## tembo
 Tembo
 > App description.
 
 [More information](https://www.houdah.com/tembo/updates/cast2.xml)
 
-##tencentmeeting
+## tencentmeeting
 TencentMeeting
 '[More information](https://meeting.tencent.com/)
 
-##textexpander
+## textexpander
 TextExpander
 > App description.
 
 [More information](https://cgi.textexpander.com/cgi-bin/redirect.pl?cmd=download&platform=osx)
 
-##textmate
+## textmate
 TextMate
 > App description.
 
 [More information](https://github.com/textmate/textmate)
 
-##theunarchiver
+## theunarchiver
 The Unarchiver
 > App description.
 
 [More information](https://dl.devmate.com/com.macpaw.site.theunarchiver/TheUnarchiver.dmg)
 
-##things
+## things
 Things
 > App description.
 
 [More information](https://culturedcode.com/things/download)
 
-##thunderbird
+## thunderbird
 Thunderbird
 > App description.
 
 [More information](https://download.mozilla.org/?product=thunderbird-latest&os=osx&lang=en-US)
 
-##thunderbird_intl
+## thunderbird_intl
 Thunderbird
 > App description.
 
 [More information](https://download.mozilla.org/?product=thunderbird-latest&os=osx&lang=$userLanguage)
 
-##tidal
+## tidal
 TIDAL
 > App description.
 
 [More information](https://download.tidal.com/desktop/TIDAL.dmg)
 
-##toggltrack
+## toggltrack
 Toggl Track
 > App description.
 
 [More information](https://github.com/toggl-open-source/toggldesktop)
 
-##tom4aconverter
+## tom4aconverter
 To M4A Converter
 > App description.
 
 [More information](https://amvidia.com/downloads/to-m4a-converter-mac.dmg)
 
-##torbrowser:
+## torbrowser:
 > App description.
 
 [More information](https://www.torproject.org)
 
-##trex:
+## trex:
 > App description.
 
 [More information](https://github.com/amebalabs/TRex)
 
-##tunnelbear
+## tunnelbear
 TunnelBear
 > App description.
 
 [More information](https://s3.amazonaws.com/tunnelbear/downloads/mac/TunnelBear.zip)
 
-##tunnelblick
+## tunnelblick
 Tunnelblick
 > App description.
 
 [More information](https://github.com/TunnelBlick/Tunnelblick)
 
-##typinator
+## typinator
 Typinator
 > App description.
 
 [More information](https://update.ergonis.com/downloads/products/typinator/Typinator.app.zip)
 
-##typora
+## typora
 Typora
 > App description.
 
 [More information](https://www.typora.io/download/dev_update.xml)
 
-##ultimakercura
+## ultimakercura
 Ultimaker Cura
 > App description.
 
 [More information](https://github.com/Ultimaker/Cura)
 
-##umbrellaroamingclient:
+## umbrellaroamingclient:
 > App description.
 
 [More information](https://disthost.umbrella.com/roaming/upgrade/mac/production)
 
-##uniconverter:
+## uniconverter:
 > App description.
 
 [More information](http://download.wondershare.com/video-converter-ultimate-mac_full735.dmg)
 
-##universaltypeclient
+## universaltypeclient
 Universal Type Client
 > App description.
 
 [More information](https://bin.extensis.com)
 
-##unnaturalscrollwheels
+## unnaturalscrollwheels
 UnnaturalScrollWheels
 > App description.
 
 [More information](https://github.com/ther0n/UnnaturalScrollWheels)
 
-##utm
+## utm
 UTM
 > App description.
 
 [More information](https://github.com/utmapp/UTM)
 
-##vagrant
+## vagrant
 Vagrant
 > App description.
 
 [More information](https://www.vagrantup.com/downloads)
 
-##vanilla
+## vanilla
 Vanilla
 > App description.
 
 [More information](https://macrelease.matthewpalmer.net/Vanilla.dmg)
 
-##veracrypt
+## veracrypt
 VeraCrypt
 > App description.
 
 [More information](https://www.veracrypt.fr/en/Downloads.html)
 
-##vimac
+## vimac
 Vimac
 > App description.
 
 [More information](https://vimacapp.com/latest-release-metadata)
 
-##virtualbox:
+## virtualbox:
 > App description.
 
 [More information](https://www.virtualbox.org/wiki/Downloads)
 
-##viscosity
+## viscosity
 Viscosity
 > App description.
 
 [More information](https://www.sparklabs.com/downloads/Viscosity.dmg)
 
-##vivaldi
+## vivaldi
 Vivaldi
 > App description.
 
 [More information](https://update.vivaldi.com/update/1.0/public/mac/appcast.xml)
 
-##vlc
+## vlc
 VLC
 > App description.
 
 [More information](http://update.videolan.org/vlc/sparkle/vlc-arm64.xml)
 
-##vmwarehorizonclient
+## vmwarehorizonclient
 VMware Horizon Client
 > App description.
 
 [More information](https://download3.vmware.com/software/$downloadGroup/${fileName})
 
-##vscodium
+## vscodium
 VSCodium
 > App description.
 
 [More information](https://github.com/VSCodium/vscodium)
 
-##wacomdrivers
+## wacomdrivers
 Wacom Desktop Center
 > App description.
 
 [More information](https://www.wacom.com/en-us/support/product-support/drivers)
 
-##wallyezflash
+## wallyezflash
 Wally
 > App description.
 
 [More information](https://configure.zsa.io/wally/osx)
 
-##webex, webexteams:
+## webex, webexteams:
 > App description.
 
 [More information](https://binaries.webex.com/WebexDesktop-MACOS-Apple-Silicon-Gold/Webex.dmg)
 
-##webexmeetings:
+## webexmeetings:
 > App description.
 
 [More information](https://akamaicdn.webex.com/client/webexapp.dmg)
 
-##wechat
+## wechat
 WeChat
 > App description.
 
 [More information](https://dldir1.qq.com/weixin/mac/WeChatMac.dmg)
 
-##whatroute
+## whatroute
 WhatRoute
 > App description.
 
 [More information](https://www.whatroute.net/whatroute2appcast.xml)
 
-##whatsapp
+## whatsapp
 WhatsApp
 > App description.
 
 [More information](https://web.whatsapp.com/desktop/mac/files/WhatsApp.dmg)
 
-##wireshark
+## wireshark
 Wireshark)
 
-##wordservice
+## wordservice
 WordService
 > App description.
 
 [More information](https://www.devontechnologies.com/support/download)
 
-##wwdc:
+## wwdc:
 > App description.
 
 [More information](https://github.com/insidegui/WWDC)
 
-##xcreds
+## xcreds
 XCreds
 > App description.
 
 [More information](https://github.com/twocanoes/xcreds)
 
-##xeroxphaser7800
+## xeroxphaser7800
 XeroxPhaser
 > App description.
 
 [More information](https://www.support.xerox.com/en-us/product/phaser-7800/downloads?platform=macOSx11)
 
-##xeroxworkcentre7800
+## xeroxworkcentre7800
 XeroxWorkCentre
 > App description.
 
 [More information](https://www.support.xerox.com/nl-nl/product/workcentre-7800-series/downloads?platform=macOSx11)
 
-##xink
+## xink
 Xink
 > App description.
 
 [More information](https://downloads.xink.io/macos/pkg)
 
-##xmenu
+## xmenu
 XMenu
 > App description.
 
 [More information](https://www.devontechnologies.com/apps/freeware)
 
-##xquartz:
+## xquartz:
 > App description.
 
 [More information](https://github.com/XQuartz/XQuartz)
 
-##yed
+## yed
 yEd
 > App description.
 
 [More information](https://www.yworks.com)
 
-##yubikeymanagerqt:
+## yubikeymanagerqt:
 > App description.
 
 [More information](https://developers.yubico.com/yubikey-manager-qt)
 
-##zappy
+## zappy
 Zappy
 > App description.
 
 [More information](https://zappy.zapier.com/releases/zappy-latest.zip)
 
-##zeplin
+## zeplin
 Zeplin
 > App description.
 
 [More information](https://zpl.io/download-mac)
 
-##zohoworkdrive
+## zohoworkdrive
 Zoho WorkDrive
 _Note:_
 Using this label expects you to agree to these:
@@ -2816,13 +2816,13 @@ Using this label expects you to agree to these:
 
 [More information](https://files-accl.zohopublic.com)
 
-##zohoworkdrivegenie
+## zohoworkdrivegenie
 Zoho WorkDrive Genie
 > App description.
 
 [More information](https://www.zoho.com/workdrive/downloads/edit-tool/Zoho_WorkDrive_Genie.dmg)
 
-##zohoworkdrivetruesync
+## zohoworkdrivetruesync
 Zoho WorkDrive TrueSync
 _Note:_
 Using this label expects you to agree to these:
@@ -2832,73 +2832,73 @@ Using this label expects you to agree to these:
 
 [More information](https://www.zoho.com/workdrive/truesync.html)
 
-##zoom
+## zoom
 zoom.us
 > App description.
 
 [More information](https://zoom.us/client/latest/ZoomInstallerIT.pkg)
 
-##zoomclient
+## zoomclient
 zoom.us
 > App description.
 
 [More information](https://zoom.us/client/latest/Zoom.pkg)
 
-##zoomgov
+## zoomgov
 zoom.us
 > App description.
 
 [More information](https://www.zoomgov.com/client/latest/ZoomInstallerIT.pkg)
 
-##zoomoutlookplugin
+## zoomoutlookplugin
 Zoom Outlook Plugin
 > App description.
 
 [More information](https://zoom.us/client/latest/ZoomMacOutlookPlugin.pkg)
 
-##zoomrooms
+## zoomrooms
 ZoomRooms
 > App description.
 
 [More information](https://zoom.us/client/latest/ZoomRooms.pkg)
 
-##zotero
+## zotero
 Zotero
 > App description.
 
 [More information](https://www.zotero.org/download/client)
 
-##zulujdk11
+## zulujdk11
 Zulu JDK 11
 > App description.
 
 [More information](https://cdn.azul.com/zulu/bin)
 
-##zulujdk13
+## zulujdk13
 Zulu JDK 13
 > App description.
 
 [More information](https://cdn.azul.com/zulu/bin)
 
-##zulujdk15
+## zulujdk15
 Zulu JDK 15
 > App description.
 
 [More information](https://cdn.azul.com/zulu/bin)
 
-##zulujdk17
+## zulujdk17
 Zulu JDK 17
 > App description.
 
 [More information](https://cdn.azul.com/zulu/bin)
 
-##zulujdk18
+## zulujdk18
 Zulu JDK 18
 > App description.
 
 [More information](https://cdn.azul.com/zulu/bin)
 
-##zulujdk8
+## zulujdk8
 Zulu JDK 8
 > App description.
 
