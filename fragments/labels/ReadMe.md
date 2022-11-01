@@ -56,6 +56,7 @@ Acronis Cyber Protect Connect Agent
 
 ## adobeacrobatprodc
 Adobe Acrobat Pro DC
+<<<<<<< HEAD
 > View, create, manipulate, print and manage Portable Document Format (PDF) files.
 
 [More information](https://www.adobe.com/acrobat/acrobat-pro.html)
@@ -63,11 +64,21 @@ Adobe Acrobat Pro DC
 ## adobebrackets
 Brackets
 > An open source code editor for the web, written in JavaScript, HTML and CSS.
+=======
+> App description.
+
+[More information](https://trials.adobe.com/AdobeProducts/APRO/)
+
+## adobebrackets
+Brackets
+> App description.
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 [More information](https://github.com/adobe/brackets)
 
 ## adobeconnect
 AdobeConnectInstaller
+<<<<<<< HEAD
 > Remote training, web conferencing, presentation, and desktop sharing.
 
 [More information](https://www.adobe.com/products/adobeconnect.html)
@@ -116,27 +127,90 @@ Airtame
 ## aldente
 AlDente
 > macOS tool to limit maximum charging percentage
+=======
+> App description.
+
+[More information](http://www.adobe.com/go/ConnectSetupMac)
+
+## adobecreativeclouddesktop
+Adobe Creative Cloud
+> App description.
+
+[More information](https://helpx.adobe.com/download-install/kb/creative-cloud-desktop-app-download.html)
+
+## adobereaderdc-install
+Adobe Acrobat Reader DC
+> App description.
+
+[More information](https://ardownload2.adobe.com/pub/adobe/reader/mac/AcrobatDC/)
+
+## adobereaderdc-update
+Adobe Acrobat Reader DC
+> App description.
+
+[More information](https://ardownload2.adobe.com/pub/adobe/reader/mac/AcrobatDC/)
+
+## adobereaderdc, adobereaderdc-install
+Adobe Acrobat Reader DC
+> App description.
+
+[More information](https://armmf.adobe.com/arm-manifests/mac/AcrobatDC/reader/current_version.txt)
+
+## aircall
+Aircall
+> App description.
+
+[More information](https://electron.aircall.io/download/osx)
+
+## airserver:
+> App description.
+
+[More information](https://www.airserver.com/download/mac/latest)
+
+## airtame
+Airtame
+> App description.
+
+[More information](https://airtame.com/download)
+
+## aldente
+AlDente
+> App description.
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 [More information](https://github.com/davidwernhart/AlDente)
 
 ## alephone
 Aleph One
+<<<<<<< HEAD
 > Aleph One is the open source continuation of Bungie’s Marathon 2 game engine.
+=======
+> App description.
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 [More information](https://github.com/Aleph-One-Marathon/alephone)
 
 ## alfred:
+<<<<<<< HEAD
 > Boosts your efficiency with hotkeys, keywords, text expansion and more.
+=======
+> App description.
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 [More information](https://www.alfredapp.com)
 
 ## alttab:
+<<<<<<< HEAD
 > Windows style alt-tab on macOS
+=======
+> App description.
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 [More information](https://github.com/lwouis/alt-tab-macos)
 
 ## amazonchime
 Amazon Chime
+<<<<<<< HEAD
 > Video Conferencing & Online Meetings
 
 [More information](https://aws.amazon.com/chime/)
@@ -216,12 +290,96 @@ San Francisco Pro
 ## applesfsymbols, sfsymbols
 SF Symbols
 > Apple "San Francisco Symbols" Font Collection
+=======
+> App description.
+
+[More information](https://clients.chime.aws/mac/latest)
+
+## amazoncorretto8jdk
+Amazon Corretto 8 JDK
+> App description.
+
+[More information](https://corretto.aws/downloads/latest/amazon-corretto-8-x64-macos-jdk.pkg)
+
+## amazonworkspaces:
+> App description.
+
+[More information](https://d2td7dqidlhjx7.cloudfront.net/prod/global/osx/WorkSpaces.pkg)
+
+## androidfiletransfer
+Android File Transfer
+> App description.
+
+[More information](https://dl.google.com/dl/androidjumper/mtp/current/AndroidFileTransfer.dmg)
+
+## androidstudio
+Android Studio
+> App description.
+
+[More information](https://developer.android.com/studio#downloads)
+
+## anydesk
+AnyDesk
+> App description.
+
+[More information](https://download.anydesk.com/anydesk.dmg)
+
+## apparency
+Apparency
+> App description.
+
+[More information](https://www.mothersruin.com/software/downloads/Apparency.dmg)
+
+## appcleaner
+AppCleaner
+> App description.
+
+[More information](https://freemacsoft.net/appcleaner/Updates.xml)
+
+## applenyfonts
+Apple New York Font Collection
+> App description.
+
+[More information](https://devimages-cdn.apple.com/design/resources/download/NY.dmg)
+
+## applesfarabic
+San Francisco Arabic
+> App description.
+
+[More information](https://devimages-cdn.apple.com/design/resources/download/SF-Arabic.dmg)
+
+## applesfcompact
+San Francisco Compact
+> App description.
+
+[More information](https://devimages-cdn.apple.com/design/resources/download/SF-Compact.dmg)
+
+## applesfmono
+San Francisco Mono
+> App description.
+
+[More information](https://devimages-cdn.apple.com/design/resources/download/SF-Mono.dmg)
+
+## applesfpro
+San Francisco Pro
+> App description.
+
+[More information](https://devimages-cdn.apple.com/design/resources/download/SF-Pro.dmg)
+
+## applesfsymbols, sfsymbols
+SF Symbols
+> App description.
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 [More information](https://developer.apple.com/sf-symbols)
 
 ## aquaskk:
+<<<<<<< HEAD
 aquaskk
 > An input method without morphological analysis.
+=======
+> App description.
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 [More information](https://github.com/codefirst/aquaskk)
 
@@ -241,30 +399,50 @@ Arq7
 Asana
 > App description.
 
+<<<<<<< HEAD
 [More information](https://asana.com/)
+=======
+[More information](https://desktop-downloads.asana.com/darwin_x64/prod/latest/Asana.dmg)
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 ## atext:
 > App description.
 
+<<<<<<< HEAD
 [More information](https://trankynam.com/atext/)
+=======
+[More information](https://trankynam.com/atext/downloads/aText.dmg)
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 ## atextlegacy
 aText
 > App description.
 
+<<<<<<< HEAD
 [More information](https://trankynam.com/atext/)
 
 ## atom
 Atom
 > The hackable text editor
+=======
+[More information](https://trankynam.com/atext/downloads/aTextLegacy.dmg)
+
+## atom
+Atom
+> App description.
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 [More information](https://github.com/atom/atom)
 
 ## audacity
 Audacity
+<<<<<<< HEAD
 > Audio Editor
 
 
+=======
+> App description.
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 [More information](https://github.com/audacity/audacity)
 
@@ -281,17 +459,25 @@ Autodesk Fusion 360 Admin Install
 [More information](https://dl.appstreaming.autodesk.com/production/installers/Autodesk%20Fusion%20360%20Admin%20Install.pkg)
 
 ## autodmg:
+<<<<<<< HEAD
 > Create deployable system images from OS X installer
 
 
+=======
+> App description.
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 [More information](https://github.com/MagerValp/AutoDMG)
 
 ## autopkgr
 AutoPkgr
+<<<<<<< HEAD
 > AutoPkgr is a free Mac app that makes it easy to install and configure AutoPkg.
 
 
+=======
+> App description.
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 [More information](https://github.com/lindegroup/autopkgr)
 
@@ -313,6 +499,7 @@ AWS VPN Client
 
 ## axurerp10
 Axure RP 10
+<<<<<<< HEAD
 > All-in-one software design tool for creating prototypes, specifications, and diagrams.
 
 
@@ -323,6 +510,15 @@ balena Etcher
 > Flash OS images to SD cards & USB drives, safely and easily.
 
 
+=======
+> App description.
+
+[More information](https://d3uii9pxdigrx1.cloudfront.net/AxureRP-Setup.dmg)
+
+## balenaetcher
+balena Etcher
+> App description.
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 [More information](https://github.com/balena-io/etcher)
 
@@ -334,6 +530,7 @@ balena Etcher
 ## bartender:
 > App description.
 
+<<<<<<< HEAD
 [More information](https://www.macbartender.com/)
 
 ## basecamp3
@@ -341,6 +538,15 @@ Basecamp 3
 > Project management software, online collaboration
 
 [More information](https://basecamp.com/)
+=======
+[More information](https://www.macbartender.com/B2/updates/B4Latest/Bartender%204.dmg)
+
+## basecamp3
+Basecamp 3
+> App description.
+
+[More information](https://bc3-desktop.s3.amazonaws.com/mac/basecamp3.dmg)
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 ## bbedit
 BBEdit
@@ -357,6 +563,7 @@ BBEdit
 Bitrix24
 > App description.
 
+<<<<<<< HEAD
 [More information](https://bitrix24.com/)
 
 ## bitwarden
@@ -364,6 +571,13 @@ Bitwarden
 > The desktop vault (Windows, macOS, & Linux).
 
 
+=======
+[More information](https://dl.bitrix24.com/b24/bitrix24_desktop.dmg)
+
+## bitwarden
+Bitwarden
+> App description.
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 [More information](https://github.com/bitwarden/desktop)
 
@@ -393,9 +607,15 @@ Box
 
 ## boxsync
 Box Sync
+<<<<<<< HEAD
 > Box Sync is a productivity tool that enables you to mirror data stored on Box to your desktop.
 
 [More information](https://support.box.com/hc/en-us/articles/360043697194-Installing-Box-Sync)
+=======
+> App description.
+
+[More information](https://e3.boxcdn.net/box-installers/sync/Sync+4+External/Box%20Sync%20Installer.dmg)
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 ## boxtools
 Box Tools
@@ -411,13 +631,21 @@ Brave Browser
 
 ## bugdom
 Bugdom
+<<<<<<< HEAD
 > Pangea Software's Bugdom for modern systems
+=======
+> App description.
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 [More information](https://github.com/jorio/Bugdom)
 
 ## caffeine
 Caffeine
+<<<<<<< HEAD
 > Prevents your Mac from automatically going to sleep, dimming the screen or starting screen savers.
+=======
+> App description.
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 [More information](https://github.com/IntelliScape/caffeine)
 
@@ -466,7 +694,11 @@ Camtasia 2020
 Canva
 > App description.
 
+<<<<<<< HEAD
 [More information](https://canva.com/)
+=======
+[More information](https://desktop-release.canva.com/Canva-latest.dmg)
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 ## carboncopycloner
 Carbon Copy Cloner
@@ -478,13 +710,21 @@ Carbon Copy Cloner
 Charles Proxy
 > App description.
 
+<<<<<<< HEAD
 [More information](https://www.charlesproxy.com/)
+=======
+[More information](https://www.charlesproxy.com/assets/release/$appNewVersion/charles-proxy-$appNewVersion.dmg)
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 ## chatwork
 Chatwork
 > App description.
 
+<<<<<<< HEAD
 [More information](https://desktop-app.chatwork.com/)
+=======
+[More information](https://desktop-app.chatwork.com/installer/Chatwork.dmg)
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 ## chronoagent
 ChronoAgent
@@ -502,7 +742,11 @@ ChronoSync
 cisdem-documentreader
 > App description.
 
+<<<<<<< HEAD
 [More information](https://cisdem.com/)
+=======
+[More information](https://download.cisdem.com/cisdem-documentreader.dmg)
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 ## citrixworkspace
 Citrix Workspace
@@ -524,15 +768,23 @@ ClickShare
 
 ## clipy
 Clipy
+<<<<<<< HEAD
 > Clipboard extension app for macOS.
 
 
+=======
+> App description.
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 [More information](https://github.com/Clipy/Clipy)
 
 ## closeio
 Close.io
+<<<<<<< HEAD
 > CRM
+=======
+> App description.
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 [More information](https://github.com/closeio/closeio-desktop-releases)
 
@@ -552,7 +804,11 @@ $(curl -fsL [More information](https://clue.no/en/download)
 
 ## cocoapods
 CocoaPods
+<<<<<<< HEAD
 > A Swift & Objective C Dependency Manager
+=======
+> App description.
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 [More information](https://github.com/CocoaPods/CocoaPods-app)
 
@@ -566,7 +822,11 @@ coconutBattery
 Code42
 > App description.
 
+<<<<<<< HEAD
 [More information](https://code42.com)
+=======
+[More information](https://download.code42.com/installs/agent/latest-mac.dmg)
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 ## coderunner
 CodeRunner
@@ -576,9 +836,13 @@ CodeRunner
 
 ## colourcontrastanalyser
 Colour Contrast Analyser
+<<<<<<< HEAD
 > The Colour Contrast Analyser (CCA) helps you determine the legibility of text and the contrast of visual elements, such as graphical controls and visual indicators.
 
 
+=======
+> App description.
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 [More information](https://github.com/ThePacielloGroup/CCAe)
 
@@ -604,7 +868,10 @@ Cricut Design Space)
 
 ## cryptomator
 Cryptomator
+<<<<<<< HEAD
 > Multi-platform transparent client-side encryption of your files in the cloud
+=======
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 [More information](https://github.com/cryptomator/cryptomator)
 
@@ -616,9 +883,13 @@ Cyberduck
 
 ## cytoscape
 Cytoscape
+<<<<<<< HEAD
 > Cytoscape: an open source platform for network analysis and visualization
 
 
+=======
+> App description.
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 [More information](https://github.com/cytoscape/cytoscape)
 
@@ -630,16 +901,24 @@ DaisyDisk
 
 ## dangerzone
 Dangerzone
+<<<<<<< HEAD
 > Take potentially dangerous PDFs, office documents, or images and convert them to safe PDFs
 
 
+=======
+> App description.
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 [More information](https://github.com/freedomofpress/dangerzone)
 
 ## darktable:
+<<<<<<< HEAD
 > darktable is an open source photography workflow application and raw developer
 
 
+=======
+> App description.
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 [More information](https://github.com/darktable-org/darktable)
 
@@ -647,7 +926,11 @@ Dangerzone
 DBeaver
 > App description.
 
+<<<<<<< HEAD
 [More information](https://dbeaver.io)
+=======
+[More information](https://dbeaver.io/files/dbeaver-ce-latest-macos-aarch64.dmg)
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 ## debookee
 Debookee
@@ -668,9 +951,13 @@ DEPNotify
 
 ## desktoppr
 desktoppr
+<<<<<<< HEAD
 > Simple command line tool to set the desktop picture on macOS
 
 
+=======
+> App description.
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 [More information](https://github.com/scriptingosx/desktoppr)
 
@@ -686,17 +973,27 @@ desktoppr
 
 ## dialog, swiftdialog
 Dialog
+<<<<<<< HEAD
 > Create user-notifications on macOS with swiftDialog
 
 
+=======
+> App description.
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 [More information](https://github.com/bartreardon/swiftDialog)
 
 ## dialpad
 Dialpad
+<<<<<<< HEAD
 > Cloud Communication Platform Powered by AI
 
 [More information](https://www.dialpad.com/)
+=======
+> App description.
+
+[More information](https://storage.googleapis.com/dialpad_native/osx/Dialpad.dmg)
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 ## discord
 Discord
@@ -706,9 +1003,13 @@ Discord
 
 ## diskspace
 diskspace
+<<<<<<< HEAD
 > macOS command line tool to return the available disk space on APFS volumes
 
 
+=======
+> App description.
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 [More information](https://github.com/scriptingosx/diskspace)
 
@@ -726,17 +1027,25 @@ Docker
 
 ## dockutil
 dockutil
+<<<<<<< HEAD
 > command line tool for managing dock items
 
 
+=======
+> App description.
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 [More information](https://github.com/kcrawford/dockutil)
 
 ## drawio
 draw.io
+<<<<<<< HEAD
 > Official electron build of draw.io
 
 
+=======
+> App description.
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 [More information](https://github.com/jgraph/drawio-desktop)
 
@@ -829,9 +1138,13 @@ Evernote
 [More information](https://evernote.com/download)
 
 ## exelbanstats:
+<<<<<<< HEAD
 > macOS system monitor in your menu bar
 
 
+=======
+> App description.
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 [More information](https://github.com/exelban/stats)
 
@@ -866,7 +1179,11 @@ Fellow
 
 ## ferdi
 Ferdi
+<<<<<<< HEAD
 > Ferdi helps you organize how you use your favourite apps by combining them into one application
+=======
+> App description.
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 [More information](https://github.com/getferdi/ferdi)
 
@@ -960,9 +1277,13 @@ Flux
 
 ## flycut
 Flycut
+<<<<<<< HEAD
 > Clean and simple clipboard manager for developers
 
 
+=======
+> App description.
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 [More information](https://github.com/TermiT/Flycut)
 
@@ -992,7 +1313,11 @@ FUJIFILM X Webcam 2
 
 ## gfxcardstatus
 gfxCardStatus
+<<<<<<< HEAD
 > gfxCardStatus is an open-source menu bar application that keeps track of which graphics card your unibody, dual-GPU MacBook Pro is using at any given time, and allows you to switch between them on demand.
+=======
+> App description.
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 [More information](https://github.com/codykrieger/gfxCardStatus)
 
@@ -1000,7 +1325,11 @@ gfxCardStatus
 GIMP-2.10
 > App description.
 
+<<<<<<< HEAD
 [More information](https://www.gimp.org/downloads)
+=======
+[More information](https://[More information](https://www.gimp.org/downloads)
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 ## githubdesktop
 GitHub Desktop
@@ -1080,7 +1409,11 @@ GoToMeeting
 
 ## gpgsync
 GPG Sync
+<<<<<<< HEAD
 > GPG Sync is designed to let users always have up-to-date public keys for other members of their organization
+=======
+> App description.
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 [More information](https://github.com/firstlookmedia/gpgsync)
 
@@ -1109,15 +1442,23 @@ Gyazo GIF)
 
 ## hancock
 Hancock
+<<<<<<< HEAD
 > Signs files, such as .mobileconfigs, using a identity from your keychain
 
 
+=======
+> App description.
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 [More information](https://github.com/JeremyAgost/Hancock)
 
 ## handbrake
 HandBrake
+<<<<<<< HEAD
 > HandBrake is an open-source video transcoder available for Linux, Mac, and Windows
+=======
+> App description.
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 [More information](https://github.com/HandBrake/HandBrake)
 
@@ -1153,9 +1494,13 @@ Hype4
 
 ## hyper
 Hyper
+<<<<<<< HEAD
 > A terminal built on web technologies
 
 
+=======
+> App description.
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 [More information](https://github.com/vercel/hyper)
 
@@ -1167,9 +1512,13 @@ iBarcoder
 
 ## icons
 Icons
+<<<<<<< HEAD
 > Icons for macOS is the easiest way to create customized app icons in PNG format for your company’s internal app store. No graphic skills needed.
 
 
+=======
+> App description.
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 [More information](https://github.com/SAP/macOS-icon-generator)
 
@@ -1187,9 +1536,13 @@ IDrive
 
 ## iina
 IINA
+<<<<<<< HEAD
 > The modern video player for macOS.
 
 
+=======
+> App description.
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 [More information](https://github.com/iina/iina)
 
@@ -1221,9 +1574,13 @@ Insomnia
 
 ## installomator, installomator_theile
 Installomator
+<<<<<<< HEAD
 > Installation script to deploy standard software on Macs
 
 
+=======
+> App description.
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 [More information](https://github.com/Installomator/Installomator)
 
@@ -1270,24 +1627,36 @@ Jamf Connect Configuration
 
 ## jamfmigrator
 jamf-migrator
+<<<<<<< HEAD
 > A tool to migrate data granularly between Jamf Pro servers
 
 
+=======
+> App description.
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 [More information](https://github.com/jamf/JamfMigrator)
 
 ## jamfpppcutility
 PPPC Utility
+<<<<<<< HEAD
 > Privacy Preferences Policy Control (PPPC) Utility
 
 
+=======
+> App description.
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 [More information](https://github.com/jamf/PPPC-Utility)
 
 ## jamfreenroller
 ReEnroller
+<<<<<<< HEAD
 > Migrate macOS devices from one Jamf Server to another.
 
+=======
+> App description.
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 [More information](https://github.com/jamf/ReEnroller)
 
@@ -1358,34 +1727,54 @@ Webstorm
 [More information](https://download.jetbrains.com/)
 
 ## kap:
+<<<<<<< HEAD
 > An open-source screen recorder built with web technology
 
 
+=======
+> App description.
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 [More information](https://github.com/wulkano/kap)
 
 ## karabinerelements:
+<<<<<<< HEAD
 > Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
 
 
+=======
+> App description.
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 [More information](https://github.com/pqrs-org/Karabiner-Elements)
 
 ## keepassxc
 KeePassXC
+<<<<<<< HEAD
 > KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
+=======
+> App description.
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 [More information](https://github.com/keepassxreboot/keepassxc)
 
 ## keepingyouawake
 KeepingYouAwake
+<<<<<<< HEAD
 > Prevents your Mac from going to sleep.
+=======
+> App description.
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 [More information](https://github.com/newmarcel/KeepingYouAwake)
 
 ## keka
 Keka
+<<<<<<< HEAD
 > The macOS file archiver
+=======
+> App description.
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 [More information](https://github.com/aonez/Keka)
 
@@ -1407,7 +1796,11 @@ Keybase
 
 ## knockknock
 KnockKnock
+<<<<<<< HEAD
 > Enumerate persistently installed software
+=======
+> App description.
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 [More information](https://github.com/objective-see/KnockKnock)
 
@@ -1468,7 +1861,11 @@ Logi Options
 
 ## logseq
 Logseq
+<<<<<<< HEAD
 > A privacy-first, open-source platform for knowledge management and collaboration.
+=======
+> App description.
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 [More information](https://github.com/logseq/logseq)
 
@@ -1479,7 +1876,11 @@ Logseq
 
 ## lowprofile
 Low Profile
+<<<<<<< HEAD
 > A Mac utility to help inspect Apple Configuration Profile payloads.
+=======
+> App description.
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 [More information](https://github.com/ninxsoft/LowProfile)
 
@@ -1490,7 +1891,11 @@ Low Profile
 
 ## lulu
 LuLu
+<<<<<<< HEAD
 > LuLu is the free macOS firewall
+=======
+> App description.
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 [More information](https://github.com/objective-see/LuLu)
 
@@ -2753,12 +3158,17 @@ VSCodium
 
 ## wacomdrivers
 Wacom Desktop Center
+<<<<<<< HEAD
 > Drivers for Wacom tablets and pointing devices.
+=======
+> App description.
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 [More information](https://www.wacom.com/en-us/support/product-support/drivers)
 
 ## wallyezflash
 Wally
+<<<<<<< HEAD
 > Custom ZSA keyboard firmware utility.
 
 [More information](https://ergodox-ez.com/pages/wally)
@@ -2803,6 +3213,48 @@ WordService
 > Provides a large number of commands for working with selected text.
 
 [More information](https://www.devontechnologies.com/apps/freeware)
+=======
+> App description.
+
+[More information](https://configure.zsa.io/wally/osx)
+
+## webex, webexteams:
+> App description.
+
+[More information](https://binaries.webex.com/WebexDesktop-MACOS-Apple-Silicon-Gold/Webex.dmg)
+
+## webexmeetings:
+> App description.
+
+[More information](https://akamaicdn.webex.com/client/webexapp.dmg)
+
+## wechat
+WeChat
+> App description.
+
+[More information](https://dldir1.qq.com/weixin/mac/WeChatMac.dmg)
+
+## whatroute
+WhatRoute
+> App description.
+
+[More information](https://www.whatroute.net/whatroute2appcast.xml)
+
+## whatsapp
+WhatsApp
+> App description.
+
+[More information](https://web.whatsapp.com/desktop/mac/files/WhatsApp.dmg)
+
+## wireshark
+Wireshark)
+
+## wordservice
+WordService
+> App description.
+
+[More information](https://www.devontechnologies.com/support/download)
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 ## wwdc:
 > App description.
@@ -2816,6 +3268,7 @@ XCreds
 [More information](https://github.com/twocanoes/xcreds)
 
 ## xeroxphaser7800
+<<<<<<< HEAD
 Xerox Phaser 7800 series
 > Xerox Print and Scan (TWAIN/ICA) Drivers for macOS.
 
@@ -2836,6 +3289,28 @@ Xink
 ## xmenu
 XMenu
 > Add one or more out of six menus to the right side of your menu bar.
+=======
+XeroxPhaser
+> App description.
+
+[More information](https://www.support.xerox.com/en-us/product/phaser-7800/downloads?platform=macOSx11)
+
+## xeroxworkcentre7800
+XeroxWorkCentre
+> App description.
+
+[More information](https://www.support.xerox.com/nl-nl/product/workcentre-7800-series/downloads?platform=macOSx11)
+
+## xink
+Xink
+> App description.
+
+[More information](https://downloads.xink.io/macos/pkg)
+
+## xmenu
+XMenu
+> App description.
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 [More information](https://www.devontechnologies.com/apps/freeware)
 
@@ -2846,17 +3321,26 @@ XMenu
 
 ## yed
 yEd
+<<<<<<< HEAD
 > Web-based diagramming.
+=======
+> App description.
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 [More information](https://www.yworks.com)
 
 ## yubikeymanagerqt:
+<<<<<<< HEAD
 > Cross-platform application for configuring any YubiKey over all USB interfaces.
+=======
+> App description.
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 [More information](https://developers.yubico.com/yubikey-manager-qt)
 
 ## zappy
 Zappy
+<<<<<<< HEAD
 > Imagine all the apps you use for work talking to each other. Zapier connects 5,000+ apps so the conversation flows - automatically.
 
 [More information](https://zapier.com/)
@@ -2866,6 +3350,17 @@ Zeplin
 > Organize screens. Publish locked designs. Scale design systems. All in a workspace friendly to the entire team, including non-designers.
 
 [More information](https://zpl.io)
+=======
+> App description.
+
+[More information](https://zappy.zapier.com/releases/zappy-latest.zip)
+
+## zeplin
+Zeplin
+> App description.
+
+[More information](https://zpl.io/download-mac)
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 ## zohoworkdrive
 Zoho WorkDrive
@@ -2873,6 +3368,7 @@ _Note:_
 Using this label expects you to agree to these:
 [License Areemant:](https://www.zoho.com/workdrive/zohoworkdrive-license-agreement.html)
 [Privacy policy:](https://www.zoho.com/privacy.html)
+<<<<<<< HEAD
 > Online file management for teams that work together.
 
 [More information](https://www.zoho.com/workdrive/)
@@ -2882,6 +3378,17 @@ Zoho WorkDrive Genie
 > Online file management for teams that work together.
 
 [More information](https://www.zoho.com/workdrive/)
+=======
+> App description.
+
+[More information](https://files-accl.zohopublic.com)
+
+## zohoworkdrivegenie
+Zoho WorkDrive Genie
+> App description.
+
+[More information](https://www.zoho.com/workdrive/downloads/edit-tool/Zoho_WorkDrive_Genie.dmg)
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
 
 ## zohoworkdrivetruesync
 Zoho WorkDrive TrueSync
@@ -2889,6 +3396,7 @@ _Note:_
 Using this label expects you to agree to these:
 [License Areemant:](https://www.zoho.com/workdrive/zohoworkdrive-license-agreement.html)
 [Privacy policy:](https://www.zoho.com/privacy.html)
+<<<<<<< HEAD
 > Online file management for teams that work together.
 
 [More information](https://www.zoho.com/workdrive/)
@@ -2964,3 +3472,80 @@ Zulu JDK 8
 > The Java platform for the modern cloud enterprise. The world’s best supported builds of OpenJDK.
 
 [More information](https://azul.com/zulu)
+=======
+> App description.
+
+[More information](https://www.zoho.com/workdrive/truesync.html)
+
+## zoom
+zoom.us
+> App description.
+
+[More information](https://zoom.us/client/latest/ZoomInstallerIT.pkg)
+
+## zoomclient
+zoom.us
+> App description.
+
+[More information](https://zoom.us/client/latest/Zoom.pkg)
+
+## zoomgov
+zoom.us
+> App description.
+
+[More information](https://www.zoomgov.com/client/latest/ZoomInstallerIT.pkg)
+
+## zoomoutlookplugin
+Zoom Outlook Plugin
+> App description.
+
+[More information](https://zoom.us/client/latest/ZoomMacOutlookPlugin.pkg)
+
+## zoomrooms
+ZoomRooms
+> App description.
+
+[More information](https://zoom.us/client/latest/ZoomRooms.pkg)
+
+## zotero
+Zotero
+> App description.
+
+[More information](https://www.zotero.org/download/client)
+
+## zulujdk11
+Zulu JDK 11
+> App description.
+
+[More information](https://cdn.azul.com/zulu/bin)
+
+## zulujdk13
+Zulu JDK 13
+> App description.
+
+[More information](https://cdn.azul.com/zulu/bin)
+
+## zulujdk15
+Zulu JDK 15
+> App description.
+
+[More information](https://cdn.azul.com/zulu/bin)
+
+## zulujdk17
+Zulu JDK 17
+> App description.
+
+[More information](https://cdn.azul.com/zulu/bin)
+
+## zulujdk18
+Zulu JDK 18
+> App description.
+
+[More information](https://cdn.azul.com/zulu/bin)
+
+## zulujdk8
+Zulu JDK 8
+> App description.
+
+[More information](https://cdn.azul.com/zulu/bin)
+>>>>>>> 3e6b755b4d7aa1f4f1b54251d12ec2141e1d7c77
