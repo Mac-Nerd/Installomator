@@ -2,7 +2,7 @@
 
 # Installation using Installomator
 
-LOGO="" # "mosyleb", "mosylem", "addigy", "microsoft", "ws1"
+LOGO="" # "mosyleb", "mosylem", "addigy", "microsoft", "ws1", "kandji"
 
 item="" # enter the software to install
 # Examples: adobecreativeclouddesktop, canva, cyberduck, handbrake, inkscape, textmate, vlc
@@ -32,6 +32,8 @@ installomatorOptions="BLOCKING_PROCESS_ACTION=prompt_user NOTIFY=all" # Separate
 # Fill the variable "item" above with a label.
 # Script will run this label through Installomator.
 ######################################################################
+# v.  9.2.3 : Only kill the caffeinate process we create
+# v.  9.2.2 : A bit more logging on succes.
 # v.  9.2.1 : Better logging handling and installomatorOptions fix.
 ######################################################################
 
@@ -55,7 +57,6 @@ fi
 caffeinatepid=$!
 caffexit () {
     kill "$caffeinatepid"
-    pkill caffeinate
     exit $1
 }
 
@@ -66,8 +67,8 @@ cmdOutput="$(${destFile} ${item} LOGO=$LOGO ${installomatorOptions} || true)"
 exitStatus="$( echo "${cmdOutput}" | grep --binary-files=text -i "exit" | tail -1 | sed -E 's/.*exit code ([0-9]).*/\1/g' || true )"
 if [[ ${exitStatus} -eq 0 ]] ; then
     echo "${item} succesfully installed."
-    warnOutput="$( echo "${cmdOutput}" | grep --binary-files=text -i "warn" || true )"
-    echo "$warnOutput"
+    selectedOutput="$( echo "${cmdOutput}" | grep --binary-files=text -E ": (REQ|ERROR|WARN)" || true )"
+    echo "$selectedOutput"
 else
     echo "ERROR installing ${item}. Exit code ${exitStatus}"
     echo "$cmdOutput"

@@ -3,7 +3,7 @@
 # Progress 1st with swiftDialog (auto installation at enrollment)
 instance="" # Name of used instance
 
-LOGO="" # "appstore", "jamf", "mosyleb", "mosylem", "addigy", "microsoft", "ws1"
+LOGO="" # "appstore", "jamf", "mosyleb", "mosylem", "addigy", "microsoft", "ws1", "kandji"
 
 apps=(
     "swiftDialog,/usr/local/bin/dialog"
@@ -86,7 +86,9 @@ errorMessage="A problem was encountered setting up this Mac. Please contact IT."
 #      Or fonts, like:
 #       "Apple SF Pro Font,/Library/Fonts/SF-Pro.ttf"
 ######################################################################
-scriptVersion="9.5"
+scriptVersion="9.7"
+# v.  9.7   : 2022-12-19 : Fix for LOGO_PATH for ws1
+# v.  9.6   : 2022-11-15 : GitHub API call is first, only try alternative if that fails.
 # v.  9.5   : 2022-09-21 : change of GitHub download
 # v.  9.4   : 2022-09-14 : downloadURL can fall back on GitHub API
 # v.  9.3   : 2022-08-29 : Logging changed for current version. Improved installation with looping if it fails, so it can try again. Improved GitHub handling.
@@ -179,7 +181,11 @@ case $LOGO in
         ;;
     ws1)
         # Workspace ONE (AirWatch)
-        LOGO="/Applications/Workspace ONE Intelligent Hub.app/Contents/Resources/AppIcon.icns"
+        LOGO_PATH="/Applications/Workspace ONE Intelligent Hub.app/Contents/Resources/AppIcon.icns"
+        ;;
+    kandji)
+        # Kandji
+        LOGO="/Applications/Kandji Self Service.app/Contents/Resources/AppIcon.icns"
         ;;
 esac
 if [[ ! -a "${LOGO_PATH}" ]]; then
@@ -230,11 +236,11 @@ gitusername="bartreardon"
 gitreponame="swiftDialog"
 #printlog "$gitusername $gitreponame"
 filetype="pkg"
-#downloadURL="https://github.com$(curl -sfL "https://github.com/$gitusername/$gitreponame/releases/latest" | tr '"' "\n" | grep -i "^/.*\/releases\/download\/.*\.$filetype" | head -1)"
-downloadURL="https://github.com$(curl -sfL "$(curl -sfL "https://github.com/$gitusername/$gitreponame/releases/latest" | tr '"' "\n" | grep -i "expanded_assets" | head -1)" | tr '"' "\n" | grep -i "^/.*\/releases\/download\/.*\.$filetype" | head -1)"
+downloadURL=$(curl -sfL "https://api.github.com/repos/$gitusername/$gitreponame/releases/latest" | awk -F '"' "/browser_download_url/ && /$filetype\"/ { print \$4; exit }")
 if [[ "$(echo $downloadURL | grep -ioE "https.*.$filetype")" == "" ]]; then
-    printlog "Trying GitHub API for download URL."
-    downloadURL=$(curl -sfL "https://api.github.com/repos/$gitusername/$gitreponame/releases/latest" | awk -F '"' "/browser_download_url/ && /$filetype\"/ { print \$4; exit }")
+    printlog "GitHub API failed, trying failover."
+    #downloadURL="https://github.com$(curl -sfL "https://github.com/$gitusername/$gitreponame/releases/latest" | tr '"' "\n" | grep -i "^/.*\/releases\/download\/.*\.$filetype" | head -1)"
+    downloadURL="https://github.com$(curl -sfL "$(curl -sfL "https://github.com/$gitusername/$gitreponame/releases/latest" | tr '"' "\n" | grep -i "expanded_assets" | head -1)" | tr '"' "\n" | grep -i "^/.*\/releases\/download\/.*\.$filetype" | head -1)"
 fi
 #printlog "$downloadURL"
 appNewVersion=$(curl -sLI "https://github.com/$gitusername/$gitreponame/releases/latest" | grep -i "^location" | tr "/" "\n" | tail -1 | sed 's/[^0-9\.]//g')
@@ -245,6 +251,7 @@ versionKey="CFBundleShortVersionString" #CFBundleVersion
 
 currentInstalledVersion="$(defaults read "${destFile}/Contents/Info.plist" $versionKey || true)"
 printlog "${name} version: $currentInstalledVersion"
+destFile="/usr/local/bin/dialog"
 if [[ ! -e "${destFile}" || "$currentInstalledVersion" != "$appNewVersion" ]]; then
     printlog "$name not found or version not latest."
     printlog "${destFile}"

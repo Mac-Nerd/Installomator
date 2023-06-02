@@ -14,7 +14,9 @@ if ! gh pr checkout $pr_num -b "pr/$pr_num"; then
 fi
 
 if ! utils/assemble.sh $label; then
+    exitcode=$?
     echo "something went wrong, stopping here"
+    echo "exit code: $exitcode"
 else
     echo
     echo "All good!"
@@ -24,7 +26,7 @@ else
 
     if [[ $query == 'y' ]]; then
         git checkout main
-        git merge "pr/$pr_num" -m "new label: $label"
+        git merge "pr/$pr_num" -m "label: $label, see #$pr_num"
         git branch -d "pr/$pr_num"
         gh pr comment $pr_num --body 'Thank you!'
     fi
