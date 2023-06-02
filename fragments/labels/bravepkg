@@ -1,0 +1,15 @@
+bravepkg)
+    name="Brave Browser"
+    type="pkg"
+    if [[ $(arch) != "i386" ]]; then
+        printlog "Architecture: arm64 (not i386)"
+        downloadURL="https://referrals.brave.com/latest/Brave-Browser-arm64.pkg"
+        appNewVersion="$(curl -fsL "https://updates.bravesoftware.com/sparkle/Brave-Browser/stable-arm64/appcast.xml" | xpath -e '//rss/channel/item[last()]/enclosure/@sparkle:version' 2>/dev/null  | cut -d '"' -f 2)"
+    else
+        printlog "Architecture: i386"
+        downloadURL="https://referrals.brave.com/latest/Brave-Browser.pkg"
+        appNewVersion="$(curl -fsL "https://updates.bravesoftware.com/sparkle/Brave-Browser/stable/appcast.xml" | xpath -e '//rss/channel/item[last()]/enclosure/@sparkle:version' 2>/dev/null  | cut -d '"' -f 2)"
+    fi
+    versionKey="CFBundleVersion"
+    expectedTeamID="KL8N8XSYF4"
+    ;;
